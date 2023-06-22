@@ -9,6 +9,8 @@
 		<link rel="stylesheet" href="dist/reset.css">
 		<link rel="stylesheet" href="dist/reveal.css">
 		<link rel="stylesheet" href="dist/theme/kfitz.css" id="theme">
+        <link rel="stylesheet" href="dist/attribution.css">
+        <link rel="stylesheet" href="dist/fullscreen.css">
 
 		<!-- If the query includes 'print-pdf', include the PDF print sheet -->
 		<script>
@@ -42,6 +44,9 @@
 		<script src="plugin/notes/notes.js"></script>
 		<script src="plugin/markdown/markdown.js"></script>
 		<script src="plugin/highlight/highlight.js"></script>
+        <script src="plugin/menu/menu.js"></script>
+        <script src="plugin/attribution/plugin.js"></script>
+        <script src="plugin/fullscreen/plugin.js"></script>
 		<script>
 		// More info about initialization & config:
 		// - https://revealjs.com/initialization/
@@ -52,7 +57,7 @@
             slideNumber: true,
 
 			// Learn about plugins: https://revealjs.com/plugins/
-			plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealAttribution, RevealMenu, RevealFullscreen ]
 			});
 		</script>
 
