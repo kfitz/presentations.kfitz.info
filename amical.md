@@ -24,7 +24,7 @@ The ways our engagements with one another are mediated by online platforms for c
 
 
 ![GitLab's Guide to All-Remote](images/gitlab.png)
-<small>https://about.gitlab.com/company/culture/all-remote/guide/</small>
+<span class="attribution">https://about.gitlab.com/company/culture/all-remote/guide/</span>
 
 Note: (Incidentally, one of the best resources I've found for thinking about how to create inclusive remote workplaces is [GitLab's Guide to All-Remote](https://about.gitlab.com/company/culture/all-remote/guide/#). The site is a bit overwhelming at first, but dipping in a little at a time reveals several key principles that we could all bear to learn from, such as documenting everything in writing and creating a handbook-first approach to that documentation so that there's a single location in which everyone knows that the answers to questions can be found. There's a lot more in that site that I think can provide some ideas for creating better engagement using digital platforms.)
 
