@@ -47,10 +47,28 @@ Note: So what do I mean by that?
 Note: "culture eats strategy for breakfast" -- which is to say that the normalized, unspoken ways things are done will take precedence over all but the best-laid plans, and thus real strategic change often demands deep cultural transformation as a prerequisite
 
 
-# "Fair use"
+## "Fair use"
 
-Note: take the case of "fair use," which as we all know (at least in the US context) is not a legally defined status with respect to the use of copyrighted materials but rather a fuzzy defensive posture built of several highly subjective arguments. Fair use is a small and eternally at risk carve-out within a culture that is built on ownership, in other words. And as Susan Bielstein argues in *Permissions: A Survival Guide,* every time we ask permission to use an image or a quotation in a way that ought to fall under fair use, we weaken that carve-out, and we normalize the dominance of ownership, giving credence to corporate claims that we ought to be asking for permission at all times because that's the way things are done
-	- the same, I want to argue, is true of publishing fees: every time we accept a corporate publisher's discount or fee waiver, or sign a "read and publish" deal, or otherwise use public funds to cover the increasingly ridiculous sums charged in order to circulate the products of research, we help strengthen the argument that it's perfectly normal for corporations to control the flow of knowledge and to profit from doing so
+Note: Take the case of "fair use," which as we all know (at least in the US context) is not a legally defined status with respect to the use of copyrighted materials but rather a fuzzy defensive posture built of several highly subjective arguments.
+
+
+# Ownership
+
+Note: Fair use is a small and eternally at risk carve-out within a culture that is built on ownership, in other words. And as Susan Bielstein argues in *Permissions: A Survival Guide,* every time we ask permission to use an image or a quotation in a way that ought to fall under fair use, we weaken that carve-out, and we normalize the dominance of ownership, giving credence to corporate claims that we ought to be asking for permission at all times because that's the way things are done
+
+
+## "Fee waivers"
+
+Note: Fee waivers, I want to argue, are similarly a precarious carve-out within a larger culture of 
+
+
+# Corporate control
+
+Note: corporate control: every time we accept a corporate publisher's discount or fee waiver, or sign a "read and publish" deal, or otherwise use public funds to cover the increasingly ridiculous sums charged in order to circulate the products of research, we help strengthen the argument that it's perfectly normal for corporations to control the flow of knowledge and to profit from doing so
+
+
+
+
 - so what are our alternatives?
 	- we've heard about several of them over the course of the day today: projects and platforms and publishing workflows that are not corporate-owned, but that rely on public and institutional investment in order to make both publishing and reading freely available to all, and that are accountable to the publics that they serve
 	- there are lots more of these that we haven't talked about, including the Open Library of the Humanities, which is not only celebrating its ten-year anniversary this year but has published openly about its business model
