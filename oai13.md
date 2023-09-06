@@ -2,9 +2,8 @@
 ---
 ### Platforms and Workflows for Actually Equitable Open Scholarly Communication
 ---
-<small>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu<br />
-OAI13<br />
-6 September 2023</small>
+<small>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
+OAI13 // 6 September 2023</small>
 
 Note: I want to start today by thanking Frank and Wouter for inviting me to speak today as part of this session on Diamond Open Access. My title, as proposed some months ago, is more than a little flippant, but I'm going to start today by raising a few issues that have been worrying me with respect to the present course of open access, before sharing a bit of what my colleagues and I have been trying to do about it.
 
@@ -143,6 +142,6 @@ Note: And this is how we change a culture. Not by starting with the technologies
 
 ## thank you
 ---
-<small> Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu </small>
+<small> Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu </small>
 
 Note: Thanks so much.
