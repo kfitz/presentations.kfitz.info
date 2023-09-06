@@ -84,7 +84,7 @@ Note: Our goal is to provide a non-extractive, scholar-led, academy-owned, trans
 Note: Humanities Commons is a multi-functional network supporting collaboration and communication among more than 52,000 researchers and practitioners across the humanities and around the world. The Commons brings together a large-scale WordPress-based publishing network with the social-networking capabilities made available by the BuddyPress plugin, allowing users to create rich profiles detailing their work, to participate in a wide range of group discussions, and to build individual or group websites that can serve as portfolios, journals, networked projects, and more.
 
 
-![Screenshot of repository item](images/deposit.png)
+![Screenshot of repository item](images/deposit.png) <!-- .element height="90%" width="90%" -->
 <small>hcommons.org/deposits/item/mla:579</small>
 
 Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to have DOIs attached it, and to share that work with the broader Commons network.
@@ -96,7 +96,7 @@ Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a W
 Note: In 2020, Humanities Commons moved from the MLA to a new fiscal host, Michigan State University, and began work developing the first institutional node on the network, MSU Commons. Over the next two years, we received two significant investments of multi-year support from the NEH and Mellon, allowing us to staff up, to remediate our technical debt, and to develop a forward-looking roadmap toward a sustainable future.
 
 
-![Screenshot of sustaining.hcommons.org](images/sustaining.png)
+![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="90%" width="90%" -->
 <small>sustaining.hcommons.org</small>
 
 Note: Humanities Commons is built by and for scholars. It's a **values-enacted** project, meaning that, among other things, (1) we have put in place a participatory governance structure that enables both individual users and our sustaining institutional members to have a voice in the project's future, (2) we have developed network policies that emphasize inclusion and openness, and (3) we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
@@ -119,7 +119,7 @@ Note: So in 2023, the Commons team was awarded a significant grant from the Nati
  So the goal for this grant program is to foster networks that coordinate open research according to FAIR principles, all of which aligns quite well with the structures and goals of the Commons.
 
 
-![Graphic of CARE data principles](images/care.png)<!-- .element height="45%" width="45%" --><br />
+![Graphic of CARE data principles](images/care.png) <!-- .element height="45%" width="45%" -->
 <small>https://datascience.codata.org/articles/10.5334/dsj-2020-043/</small>
 
 Note: In our proposal, however, we added "CARE" to "FAIR" in describing the work that we're doing.  CARE is a set of principles developed for Indigenous data governance, which applied to our network makes it incumbent on us to ensure that data shared and stored through the Commons are not just findable, accessible, interoperable, and reusable, but are also used for the Collective benefit of those participating in the research, that the communities in which the data are gathered have the Authority to control their use, that the researchers recognize their Responsibility to those communities, and that the relationships, the data, and the platform are all developed with Ethics in mind.
