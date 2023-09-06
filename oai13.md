@@ -43,7 +43,7 @@ Note: I want to be super clear about what I mean by that. The way things are cur
 Note: "culture eats strategy for breakfast" in the corporate universe -- which is to say that the normalized, unspoken assumptions about the ways things are done will take precedence over all but the best-laid plans, and because of that  real strategic change often demands deep cultural transformation as a prerequisite.
 
 
-### Fair use
+## Fair use
 
 Note: Take the case of "fair use," which as we all know (at least in the US context) is not a legally defined status with respect to the use of copyrighted materials but rather a fuzzy affirmative defensive posture built of several highly subjective arguments, requiring the defendant to prove their innocence in a courtroom that presumes their guilt.
 
@@ -53,7 +53,7 @@ Note: Take the case of "fair use," which as we all know (at least in the US cont
 Note: Fair use is a small and eternally at risk exception within a culture that is built on ownership, in other words. And as Susan Bielstein argues in *Permissions: A Survival Guide,* every time we ask permission to use an image or a quotation in a way that ought to fall under fair use, we weaken that exception, and we normalize the dominance of ownership, giving credence to corporate claims that we ought to be asking for permission at all times because that's the way things are done.
 
 
-### Fee waivers
+## Fee waivers
 
 Note: Fee waivers, I want to argue, are similarly a precarious exception within a larger culture of 
 
