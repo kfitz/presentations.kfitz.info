@@ -120,7 +120,7 @@ Note: So in 2023, the Commons team was awarded a significant grant from the Nati
 
 
 ![Graphic of CARE data principles](images/care.png) <!-- .element height="45%" width="45%" -->
-<small>https://datascience.codata.org/articles/10.5334/dsj-2020-043/</small>
+<small>datascience.codata.org/articles/10.5334/dsj-2020-043/</small>
 
 Note: In our proposal, however, we added "CARE" to "FAIR" in describing the work that we're doing.  CARE is a set of principles developed for Indigenous data governance, which applied to our network makes it incumbent on us to ensure that data shared and stored through the Commons are not just findable, accessible, interoperable, and reusable, but are also used for the Collective benefit of those participating in the research, that the communities in which the data are gathered have the Authority to control their use, that the researchers recognize their Responsibility to those communities, and that the relationships, the data, and the platform are all developed with Ethics in mind.
 
