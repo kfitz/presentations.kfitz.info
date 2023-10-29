@@ -2,7 +2,7 @@
 ---
 ### Platforms and Workflows for Actually Equitable Open Scholarly Communication
 ---
-<small>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu<br />
+<small>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 OAI13<br />
 6 September 2023</small>
 
@@ -47,7 +47,7 @@ Note: So what do I mean by that?
 Note: "culture eats strategy for breakfast" in the corporate universe -- which is to say that the normalized, unspoken ways things are done will take precedence over all but the best-laid plans, and thus real strategic change often demands deep cultural transformation as a prerequisite.
 
 
-## "Fair use"
+### Fair use
 
 Note: Take the case of "fair use," which as we all know (at least in the US context) is not a legally defined status with respect to the use of copyrighted materials but rather a fuzzy defensive posture built of several highly subjective arguments.
 
@@ -57,7 +57,7 @@ Note: Take the case of "fair use," which as we all know (at least in the US cont
 Note: Fair use is a small and eternally at risk carve-out within a culture that is built on ownership, in other words. And as Susan Bielstein argues in *Permissions: A Survival Guide,* every time we ask permission to use an image or a quotation in a way that ought to fall under fair use, we weaken that carve-out, and we normalize the dominance of ownership, giving credence to corporate claims that we ought to be asking for permission at all times because that's the way things are done
 
 
-## "Fee waivers"
+### Fee waivers
 
 Note: Fee waivers, I want to argue, are similarly a precarious carve-out within a larger culture of 
 
@@ -70,69 +70,63 @@ Note: corporate control: every time we accept a corporate publisher's discount o
 # Alternatives
 
 Note: So what are our alternatives?
-	- We've heard about several of them over the course of the week so far: projects and platforms and publishing workflows that are not corporate-owned, but that rely on public and institutional investment in order to make both publishing and reading freely available to all, and that are accountable to the publics that they serve.
+	- We've heard about several of them today and over the past few days: projects and platforms and publishing workflows that are not corporate-owned, but that rely on public and institutional investment in order to make both publishing and reading freely available to all, and that are accountable to the publics that they serve.
 	- And this is the point at which I want to turn from pontificating to instead talk about my own project...
+
+
+![Humanities Commons logo](images/hclogo-new.png)
+
+Note: Humanities Commons originated from a desire to build new avenues for more open, more public, more universally accessible scholarly communication for everyone. In 2013, with support from the Mellon Foundation, the Modern Language Association launched an internally-focused social network, MLA Commons, designed to foster direct communication and collaboration amongst its members. In 2016, we extended that model, again with support from the Mellon Foundation and the National Endowment for the Humanities, to embrace other fields across the humanities, establishing Humanities Commons as a platform for interdisciplinary communication among scholars and practitioners around the world. Account creation is open to any interested user regardless of institutional affiliation, professional status, or organizational membership, and accounts are and will remain free of charge.
+
+
+# The Goal
+
+Note: Our goal is to provide a non-extractive, scholar-led, and academy-owned and transparently governed alternative to commercial platforms. Beyond that, however, we also want to encourage our users to rethink the dynamics of publishing altogether, in ways that might allow for the development of new, open, collective, equitable processes of creating and sharing knowledge that give all scholars agency over the ways their work develops and circulates.
 
 
 ![Screenshot of Humanities Commons front page](images/humcomm091822.png)
 <small>hcommons.org</small>
 
-Note: A bit of background as I begin: Humanities Commons was launched in late 2016 by the Modern Language Association, with support from the Mellon Foundation and the National Endowment for the Humanities, as a platform for interdisciplinary communication among scholars and practitioners across humanities fields. It extended the model established in 2013 by MLA Commons by adding proprietary instances for a small group of scholarly societies who served as pilot partners, and it connected those instances to a central hub that anyone could join, free of charge, all linked by a shared identity management system that allows users access to the parts of the network where they have active memberships.
+Note: Humanities Commons is a multi-functional network supporting collaboration and communication among more than 52,000 researchers and practitioners across the humanities and around the world. The Commons brings together a large-scale WordPress-based publishing network with the social-networking capabilities made available by the BuddyPress plugin, allowing users to create rich profiles detailing their work, to participate in a wide range of group discussions, and to build individual or group websites that can serve as portfolios, journals, networked projects, and more.
 
 
-# NSF <span class="fragment highlight-red">FAIR</span><span class="fragment highlight-red">OS</span> <span class="fragment highlight-red">RCN</span>
+![Screenshot of CORE item](images/coreitem.png)
 
-Note: A couple of months ago, the Commons team was awarded a significant grant from the National Science Foundation in order to further extend that model. We're part of the inaugural cohort of the NSF's FAIROS RCN grantees -- which is how I discovered that the NSF loooooooves acronyms even more than my institution does. This one is composed of three key parts: (CLICK) first, FAIR, which stands for "findable, accessible, interoperable, and reusable," a set of principles guiding data sharing; (CLICK) second, OS, or open science; (CLICK) and third, RCN, or research coordination networks. So the goal for this grant program is to foster networks that coordinate open research according to FAIR principles, all of which aligns quite well with the structures and goals of the Commons. What is especially unusual about this grant is that our team, which has "Humanities" right there in the name, was approached by a group of STEM education researchers who wanted to use our platform in order to build their RCN.
-
-
-![Stereotypical humanities professor](images/tweed.jpg)
-
-Note: There are at least a couple of things that make this surprising: first, that the usual narrative about innovation in scholarly communication is that it begins in the sciences and only gradually makes its way into the stodgy print-oriented humanities, where our elbow-patched blazers and dusty archives encourage us to resist everything technical. And second, that this particular group of STEM folks defied their own usual narrative about the sciences' technological superiority and empirical rationality in recognizing that we've figured out something that they can learn from -- that the values-based approach to building participatory communities we've taken with the Commons is what they need to make their work successful.
+Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to receive DOIs for it, and to share that work with the broader Commons network.
 
 
-![Open access logo](images/open-access-logo.png)
+![Screenshot of MSU Commons](images/msucommons.png)
+<small>commons.msu.edu</small>
 
-Note: The usual narratives have played themselves out time and again in scholarly communication. You might see the history of the open access movement, for instance, which began with the recognition among scientists of the damage that major corporate publishers and their exorbitant journal subscription rates were doing to the dissemination of knowledge. In an effort to create greater equity in access to scientific developments -- and, not at all incidentally, to increase the global impact of work being done in the sciences -- researchers began pressing for alternatives to traditional journal publishing models, such that folks without access to well-funded research libraries would still be able to learn from new publications.
-
-The open-access movement has been driven since the beginning by an astonishingly utopian goal. As the signatories to the Budapest Open Access Initiative claimed in 2002, "Removing access barriers to (scientific and scholarly) literature will accelerate research, enrich education, share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge." The idealism that drove this initiative is deeply moving, and it's had a significant effect in changing the ways that scholarly communication operates. Especially in the sciences.
-
-That it's had less impact, and far slower impact, in humanities fields is often read as a sign of our recalcitrance, our backwardness, our refusal to engage with new systems, our desire to keep our conversations exclusive, our grasping after prestige, our general irrelevance to public discourse. 
+Note: Humanities Commons moved to a new fiscal host, Michigan State University, in 2020, and began work developing the first institutional node on the network, MSU Commons. Over the next two years, we received two significant investments of multi-year support from the NEH and Mellon, allowing us to staff up, to remediate our technical debt, and to develop a forward-looking roadmap toward a sustainable future.
 
 
-![Clipart image of a tiny tree mulched in with coins](images/money-tree.jpg)
+![Screenshot of sustaining.hcommons.org](images/sustaining.png)
 
-Note: While there may well be some elements of truth in some of those assessments, what they leave out is a rather stark economic reality: that by and large humanities scholars and humanities publications simply could not afford to take up the call to open access, at least not as it began to manifest itself in actual publications that sought to make work openly available. A huge percentage of those publications managed the transition to open access by shifting the costs from the consumer side, where they had long relied on library subscription fees, to the producer side, where they instead asked authors for article processing charges. This was arguably all well and good in the sciences, where researchers had long written publishing costs into their grants, and where nearly all research is not only grant-funded but funded by grants sizable enough to accommodate such costs. As we know all too well, the vast majority of research done in the humanities is done without grant-based support, and where grants do exist they're usually too tiny to accommodate publishing charges. And while some institutions are able to provide some support for APCs, that funding is neither universally available nor sufficient to accommodate all the researchers that might benefit from it.
+Note: Humanities Commons is built by and for scholars. It's a **values-enacted** project, meaning that, among other things, (1) we have put in place a participatory governance structure that enables users to have a voice in the project's future, (2) we have developed network policies that emphasize inclusion and openness, and (3) we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
 
-
-![Photograph of a blue sky with the top of a wire fence on the right](images/barriers.jpg)
-
-Note: So the situation in the humanities, looked at just a little harder, reveals itself not to be exclusive to our fields at all. In fact, the rise of APC-driven business models in scholarly publishing has created new kinds of barriers, preventing many researchers at underfunded institutions, in underfunded areas of research, and in underfunded areas of the world, from contributing to the conversations that open access can foster. In other words, in shifting the costs of publishing from the consumer side to the producer side, the dominant model for open-access publishing didn't eliminate inequities but instead just shifted them, too, turning barriers to access to the products of scholarly research into barriers to participation. (Even more dismayingly, the corporate behemoths that the open access movement rose up against have only seen their profit margins increase during this time, as they've figured out that they can create hybrid journals for which they can *both* charge libraries subscription fees for the journal as a whole *and* charge authors with the ability to pay APCs to make their work openly available.) 
+Becoming sustainable -- rather than remaining dependent on the endless churn of grant support -- requires us to generate revenue that will allow us to continue investing in the network's upkeep. And that requires support from institutions of higher education, which in turn requires us to help those institutions think about the significance of open-source, academy-owned alternatives to the corporate data capture platforms on which they currently rely. 
 
 
-![Yellow background with a drawing of a lightbulb whose filament is shaped like a brain](images/generosity.jpg)
 
-Note: Now, I don't want to suggest that we in the humanities, thanks to our highly developed powers of critical foresight, knew that this situation was coming, and thus that any resistance to open access publishing we might have put up was born out of a principled demand for equity and inclusion. But I will venture that the minimal availability of funding to support this shift to APCs, and thus the less-than-lucrative prospects for publishers who might have hoped to enact the same business model flip in our fields, encouraged those of us who want to promote open access scholarly communication in the humanities to begin thinking about workarounds -- and at least some of those workarounds are potentially more subversive to the business of scholarly communication altogether.
-
-
-![Humanities Commons logo](images/hclogo-new.png)
-
-Note: This is where Humanities Commons came from: a desire to promote more open, more public, more universally accessible scholarly communication for everyone.
+For instance
+	- the Commons can provide a campus-wide blogging platform, a rich scholarly profile system, and a connected repository
+	- and it can do so in a space that allows scholars to connect with others in their fields, thus making the potential for uptake greater
+- but bringing the Commons to institutions requires us to serve the entirety of the campus, and so we're now thinking beyond the humanities
 
 
 
 
 
+![Screenshot of the OA Books Network group](images/humcomm-group.png)
 
-- I want to talk a bit today about my own project, Humanities Commons
-	- for the last ten years, I've been working with colleagues, first within the Modern Language Association, and now at Michigan State University, to develop a non-extractive, scholar-led, and academy-owned and governed alternative to commercial platforms, thus allowing for open, collective, equitable communication processes that give all scholars agency over the ways that work in their fields circulates
-	- HC is a bit different: we're not a publisher, or a journal system, but rather a platform that brings together a social/blogging network and a repository in ways designed to facilitate direct scholar-to-scholar communication
-- overview of HC functionality
-- HC community governance and support
+Note: The Commons is designed, in other words, to facilitate **community-building**. Its emphasis on member-to-member connections and communication is a significant component of why our STEM education colleagues came to us, rather than selecting another platform on which they could build their research coordination network -- because while there are a ton of well-funded platforms that can host and preserve the data and publications that scientists produce, many of them are operated without academic values in mind, and none of them focus on the *people* doing the work, or on the ways that discussion and collaboration amongst those people might lead to transformative change.
+
 
 
 
 ## thank you
 ---
-<small> Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu </small>
+<small> Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu </small>
 
 Note: Thanks so much.
