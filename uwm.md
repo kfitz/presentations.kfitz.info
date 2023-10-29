@@ -3,8 +3,7 @@
 ### Collaboration, Community, Solidarity
 ---
 <small>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
-C21, University of Wisconsin-Milwaukee<br />
-2 November 2023</small>
+C21, University of Wisconsin-Milwaukee // 2 November 2023</small>
 
 
 Note: Thank you for that introduction, and for inviting me to talk with you here today! It's so nice to get to be here with you in person. Zoom is great in a lot of ways -- most importantly it made it possible for us to continue to work together despite whatever distance might be involved. This is one of the things we've learned from the pandemic: that we can do a lot of things remotely that we thought we had to travel for, and that we can include many more when we do. But we've also learned that there are things that genuinely benefit from being and thinking and working together. 
