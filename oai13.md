@@ -65,7 +65,7 @@ Note: corporate control, one that presumes that you should pay even if in *your 
 
 # Alternatives
 
-Note: So what are our alternatives? We've heard about several of them today and over the past few days: projects and platforms and publishing workflows that are not corporate-owned, but that rely on public and institutional investment in order to make both publishing and reading freely available to all, and that are accountable to the publics that they serve. And this is the point at which I want to turn from pontificating to instead talk about my own project...
+Note: So what are our alternatives? We've heard about several of them over the course of the week so far, and especially today: projects and platforms and publishing workflows that are not corporate-owned, but that rely on public and institutional investment in order to make both publishing and reading freely available to all, and that are accountable to the publics that they serve. And this is the point at which I want to turn from general pontificating to instead talk about my own project...
 
 
 ![Humanities Commons logo](images/hclogo-new.png)
@@ -75,7 +75,7 @@ Note: Humanities Commons originated from a desire to build new avenues for more 
 
 # The Goal
 
-Note: Our goal is to provide a non-extractive, scholar-led, and academy-owned and transparently governed alternative to commercial platforms. Beyond that, however, we also want to encourage our users to rethink the dynamics of publishing altogether, in ways that might allow for the development of new, open, collective, equitable processes of creating and sharing knowledge that give all scholars agency over the ways their work develops and circulates.
+Note: Our goal is to provide a non-extractive, scholar-led, academy-owned, transparently governed alternative to commercial platforms. Beyond that, however, we want to encourage our users to rethink the purposes and the dynamics of publishing altogether, in ways that might allow for the development of new, open, collective, equitable processes of creating and sharing knowledge that recenter agency over the ways that scholarly work develops and circulates with the scholars themselves.
 
 
 ![Screenshot of Humanities Commons front page](images/humcomm091822.png)
@@ -110,7 +110,7 @@ However, becoming sustainable -- rather than remaining dependent on the endless 
 Note: But bringing the Commons to institutions requires us to serve the entirety of the campus, not just the humanities. And this is not the usual narrative about innovation in scholarly communication, in which new ideas begin in the sciences and only gradually makes their way into the stodgy print-oriented humanities, where our elbow-patched blazers and dusty archives encourage us to resist everything technical. But last year we were approached by a group of STEM folks on campus who recognized that we've figured out something that they can learn from -- that the values-based approach to building participatory communities we've taken with the Commons is what they need to make their work successful.
 
 
-<span class="fragment highlight-red">FAIR</span><span class="fragment highlight-red">OS</span> <span class="fragment highlight-red">RCN</span>
+# NSF <span class="fragment highlight-red">FAIR</span><span class="fragment highlight-red">OS</span> <span class="fragment highlight-red">RCN</span>
 
 Note: So in 2023, the Commons team was awarded a significant grant from the National Science Foundation in order to extend our model in collaboration with a group of STEM education researchers. We're part of the inaugural cohort of the NSF's FAIROS RCN grantees -- which is how I discovered the NSF's deep love for acronyms. This one is composed of three key parts: 
  - **(CLICK)** first, FAIR, which stands for "findable, accessible, interoperable, and reusable," a set of principles guiding data sharing
@@ -135,7 +135,7 @@ Note: So we're working with our colleagues to develop STEMEd+ Commons, a researc
 Note: But the key is that the Commons is designed to facilitate **community-building**. Its emphasis on member-to-member connections and communication is a significant component of why our STEM education colleagues came to us, rather than selecting another platform on which they could build their research coordination network -- because while there are a ton of well-funded platforms that can host and preserve the data and publications that scientists produce, many of them are operated without academic values in mind, and none of them focus on the *people* doing the work, or on the ways that discussion and collaboration amongst those people might lead to transformative change.
 
 
-# change 
+# change
 
 Note: And this is how we change a culture. Not by starting with the technologies, or the business model, but by starting with the people, and with the culture that connects them. If we are going to develop true open access -- publishing systems that are open both to authors and to readers, not just to contribute and consume products but to genuinely shape the future of the systems themselves -- that's where we need to begin. And that's how we get to OA without tears.
 
