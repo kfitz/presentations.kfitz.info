@@ -7,7 +7,8 @@ University of Tennessee // 6 November 2023</smaller>
 Note: Thank you so much. I'm delighted to have the opportunity to be with you here today, and to share some of the thinking that my team at MSU and I have been doing about the ways that the future of knowledge production depends upon the openness of the infrastructures that support our work. And I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a technical talk, do I really want to hear a lot about this? 
 
 
-> “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”  —Deb Chachra, *How Infrastructure Works*
+> “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”
+> <small>—Deb Chachra, <i>How Infrastructure Works</i> </small>
 
 Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant new book, *How Infrastructure Works*, ""Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward." The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems' engineering, they constrain the ways that culture can evolve.
 
@@ -35,7 +36,8 @@ Note: What do I mean by "actually equitable," and how might what I'm describing 
 Note: The open access movement was founded more than 20 years ago in order to make it possible -- as the original Budapest statement said -- to "share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge." By the time the Budapest group reconvened in 2022 to celebrate its 20th anniversary, it had become all too obvious that the dominant open access publishing mechanisms that had emerged in the interim had not had the desired impact.
 
 
-> “We became increasingly clear that OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research. We must assess the growth of OA against the gains and losses for these further ends. We must pick strategies to grow OA that are consistent with these further ends and bring us steadily closer to their realization.” —BOAI 20
+> “We became increasingly clear that OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research. We must assess the growth of OA against the gains and losses for these further ends. We must pick strategies to grow OA that are consistent with these further ends and bring us steadily closer to their realization.”
+> <small>—BOAI 20</small>
 
 Note: (READ SLIDE.) To put it a bit more plainly, thanks to the resilience of the corporations that control the infrastructure of scholarly communication, open access in its dominant forms today has if anything *reduced* equity, by attaching high fees to the formats and platforms that allow publications to circulate most widely. Scholars whose fields, institutions, or nations do not have ready access to grant funding or other means of subsidizing publishing fees thus get silenced, closed out of participation in sharing their learning.
 
@@ -93,7 +95,8 @@ Note: These include what have been called "platinum" or "diamond" open-access pu
 Note: These platforms are, in other words, community-led, rather than investor-led. Not only is their purpose aligned with that of the community they serve (rather than focusing on increasing shareholder value through increasing profit margins), but they are governed by the communities they serve. And this, as Deb Chachra argues, is the key to developing the sustainable, equitable infrastructures we need for the future:
 
 
-> “Only community-led networks, whether publicly owned or non-profit cooperatives, even have the potential to incorporate broad-based accountability, long-term thinking, and an ethos of meeting needs.” —Deb Chachra, *How Infrastructure Works*
+> “Only community-led networks, whether publicly owned or non-profit cooperatives, even have the potential to incorporate broad-based accountability, long-term thinking, and an ethos of meeting needs.”
+> <small>—Deb Chachra, <i>How Infrastructure Works</i></small>
 
 Note: (READ SLIDE) And this, more than anything, is what scholarly communication needs today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
 
@@ -109,30 +112,32 @@ Note: Our goal is to provide a non-extractive, community-led and transparently g
 
 
 ![Screenshot of Humanities Commons front page](images/humcomm110423.png)
+<!-- .element height="85%" width="85%" -->
 <small>hcommons.org</small>
 
 Note: Humanities Commons is a multi-functional network supporting collaboration and communication among more than 50,000 researchers and practitioners across the humanities and around the world. The Commons brings together a large-scale WordPress-based publishing network with the social-networking capabilities made available by the BuddyPress plugin, allowing users to create rich profiles detailing their work, to participate in a wide range of group discussions, and to build individual or group websites that can serve as portfolios, journals, networked projects, and more.
 
 
-![Screenshot of repository item](images/deposit.png) <!-- .element height="90%" width="90%" -->
+![Screenshot of repository item](images/deposit.png) <!-- .element height="85%" width="85%" -->
 <small>hcommons.org/deposits/item/mla:579</small>
 
 Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to have DOIs attached it, and to share that work openly with the broader Commons network.
 
 
 ![Screenshot of MSU Commons](images/msucommons.png)
+<!-- .element height="85%" width="85%" -->
 <small>commons.msu.edu</small>
 
 Note: In 2020, Humanities Commons moved from the MLA to a new fiscal host, Michigan State University, and began work developing the first institutional node on the network, MSU Commons. Over the next two years, we received two significant investments of multi-year support from the NEH and the Mellon Foundation, allowing us to staff up, to remediate our technical debt, and to develop a forward-looking roadmap toward a sustainable future.
 
 
-![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="90%" width="90%" -->
+![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="85%" width="85%" -->
 <small>sustaining.hcommons.org</small>
 
 Note: Humanities Commons is built by and for scholars. It's a values-enacted project, meaning that, among other things, (1) we have put in place a participatory governance structure that enables both individual users and our institutional sustaining members to have a voice in the project's future, (2) we have developed network policies that emphasize inclusion and openness, and (3) we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
 
 
-![Screenshot of hcommons.social](images/mastodon.png)<!-- .element height="90%" width="90%" -->
+![Screenshot of hcommons.social](images/mastodon.png)<!-- .element height="85%" width="85%" -->
 <small>hcommons.social</small>
 
 Note: Even more, we are working to build and sustain new kinds of platforms that will allow for rich conversations among members of our community and between that community and the rest of the world. 
