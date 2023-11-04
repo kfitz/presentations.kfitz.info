@@ -96,7 +96,7 @@ Note: These platforms are, in other words, community-led, rather than investor-l
 
 
 > “Only community-led networks, whether publicly owned or non-profit cooperatives, even have the potential to incorporate broad-based accountability, long-term thinking, and an ethos of meeting needs.”
-> <small>—Deb Chachra, <i>How Infrastructure Works</i></small>
+> <span align=“right”><small>—Deb Chachra, <i>How Infrastructure Works</i></small></span>
 
 Note: (READ SLIDE) And this, more than anything, is what scholarly communication needs today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
 
