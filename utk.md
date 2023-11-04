@@ -4,13 +4,14 @@
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 University of Tennessee // 6 November 2023</smaller>
 
-Note: Thank you so much. I'm delighted to have the opportunity to be with you here today, and to share some of the thinking that my team at MSU and I have been doing about the ways that the future of knowledge production depends upon the openness of the infrastructures that support our work. And I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a technical talk, do I really want to hear a lot about this? 
+Note: Thank you so much. I'm delighted to have the opportunity to be with you here today, and to share some of the thinking that my team at MSU and I have been doing about the ways that the future of knowledge production depends upon the openness of the infrastructures that support our work. And I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a super technical talk, do I really want to hear a lot about this? 
 
 
 > “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”
-> <small>—Deb Chachra, <i>How Infrastructure Works</i> </small>
+> 
+> <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em> </small></span>
 
-Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant new book, *How Infrastructure Works*, ""Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward." The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems' engineering, they constrain the ways that culture can evolve.
+Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant new book, *How Infrastructure Works*, “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.” The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems’ engineering, they constrain the ways that culture can evolve.
 
 
 - social and epistemic justice
@@ -19,8 +20,8 @@ Note: If that's your reaction, you're not alone. As Deb Chachra points out in he
 - public investment
 
 Note:  What I'm hoping to argue today is in large part that the scholarly communication infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
-	- to work toward social and epistemic justice
-	- to center communities of practice and their concerns
+	- to work toward social and epistemic justice in our communication practices
+	- to center communities of practice and their concerns in our work
 	- to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve
 	- and to secure public investment in order to ensure that scholarly communication can become actually equitable
 
@@ -37,7 +38,8 @@ Note: The open access movement was founded more than 20 years ago in order to ma
 
 
 > “We became increasingly clear that OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research. We must assess the growth of OA against the gains and losses for these further ends. We must pick strategies to grow OA that are consistent with these further ends and bring us steadily closer to their realization.”
-> <small>—BOAI 20</small>
+> 
+> <span style="float:right;"><small>—BOAI 20</small></span>
 
 Note: (READ SLIDE.) To put it a bit more plainly, thanks to the resilience of the corporations that control the infrastructure of scholarly communication, open access in its dominant forms today has if anything *reduced* equity, by attaching high fees to the formats and platforms that allow publications to circulate most widely. Scholars whose fields, institutions, or nations do not have ready access to grant funding or other means of subsidizing publishing fees thus get silenced, closed out of participation in sharing their learning.
 
@@ -96,7 +98,8 @@ Note: These platforms are, in other words, community-led, rather than investor-l
 
 
 > “Only community-led networks, whether publicly owned or non-profit cooperatives, even have the potential to incorporate broad-based accountability, long-term thinking, and an ethos of meeting needs.”
-> <span align=“right”><small>—Deb Chachra, <i>How Infrastructure Works</i></small></span>
+> 
+> <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em></small></span>
 
 Note: (READ SLIDE) And this, more than anything, is what scholarly communication needs today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
 
@@ -121,14 +124,14 @@ Note: Humanities Commons is a multi-functional network supporting collaboration 
 ![Screenshot of repository item](images/deposit.png) <!-- .element height="85%" width="85%" -->
 <small>hcommons.org/deposits/item/mla:579</small>
 
-Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to have DOIs attached it, and to share that work openly with the broader Commons network.
+Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to share that work openly with the broader Commons network, and to have the digital object identifiers and other metadata attached to it that render a it permanently addressable part of the larger scholarly communication ecosystem.
 
 
 ![Screenshot of MSU Commons](images/msucommons.png)
 <!-- .element height="85%" width="85%" -->
 <small>commons.msu.edu</small>
 
-Note: In 2020, Humanities Commons moved from the MLA to a new fiscal host, Michigan State University, and began work developing the first institutional node on the network, MSU Commons. Over the next two years, we received two significant investments of multi-year support from the NEH and the Mellon Foundation, allowing us to staff up, to remediate our technical debt, and to develop a forward-looking roadmap toward a sustainable future.
+Note: In 2020, Humanities Commons moved from the MLA to a new fiscal host, Michigan State University, and began work developing the first institutional node on the network, MSU Commons. Over the next two years, we received two significant investments of multi-year support from the NEH and the Mellon Foundation, allowing us to staff up, to remediate our technical debt, and to develop a forward-looking roadmap toward a more sustainable future.
 
 
 ![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="85%" width="85%" -->
@@ -140,18 +143,25 @@ Note: Humanities Commons is built by and for scholars. It's a values-enacted pro
 ![Screenshot of hcommons.social](images/mastodon.png)<!-- .element height="85%" width="85%" -->
 <small>hcommons.social</small>
 
-Note: Even more, we are working to build and sustain new kinds of platforms that will allow for rich conversations among members of our community and between that community and the rest of the world. 
+Note: We are also working to build and sustain the kinds of new platforms and services that will allow for rich conversations among members of our community and between that community and the rest of the world. A year ago, seeing the handwriting on the wall for the platform formerly known as Twitter (and frankly having suffered through quite a number of unhappy years there before the beginning of the end), we launched hcommons.social, a Hometown-flavored Mastodon instance, in the hopes of providing a collegial, community-oriented space for informal communication among scholars and practitioners everywhere. We currently have just over 2000 users on our instance who are connecting with users throughout the Fediverse, and we support those users through a strong moderation policy and code of conduct. We also work to ensure that new policies and processes are discussed with that community before they’re implemented.
 
 
+## openness matters
 
-- All of this becomes especially acute as we ponder one of the common descriptors that we apply to the platforms and tools we build; we want them to be understood to be "academy owned," which we often use as a shorthand for projects and infrastructures that are not for profit, that are values enacted, and that serve the public good. "Academy owned" also has deep implications for platform governance; our projects can only serve the public good if they are accountable to that public, rather than to shareholders.
-- We're committed, then, as a matter of principle, to providing alternatives to the many platforms that purport to make scholarly work more accessible but in fact serve as mechanisms of corporate data capture, extracting value from creators and institutions for private rather than public gain.
-- and then to hcommons.social? how ownership matters in all our platforms?
-
-
+Note: 
+- from here: some stuff from “openness matters” on avoiding walled gardens
+- accountability and the idea that we’re responsible to our users
+- these two things come together for us in our commitment to provide alternatives to the many platforms that purport to make scholarly work more accessible but in fact serve as mechanisms of corporate data capture, extracting value from creators and institutions for private rather than public gain.
 - but: we aren't a perfect alternative either, and this is where we need to get down into the dirty underside of infrastructure
-	- We're running the Commons out of AWS and I'm not happy about it, not just because I hate feeding more money into the Bezos empire every month but because AWS has such a stranglehold on web service hosting of our size -- too big for a smaller hosting service, too small for our own data center. I just cannot help but think that it's a Bad Thing for academic/nonprofit services like ours to all be dependent on megacorps for our very presence. But if you don't want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren't good options.
-	- We need to invent those alternatives, because as the example of OA publishing demonstrates, waiting for commercial providers to develop them will only increase our lock-in
+- We're running the Commons on AWS, or Amazon Web Services
+- Why? AWS provides a suite of servers and tools that help us not just make our platform available but also help keep it stable and secure
+- (images/aws.png –- statista) Amazon’s revenue from AWS passed $80 billion in 2022, and as of today, (images/aws3.png – built with) AWS hosts 42 percent of the top 100,000 websites and 25 percent of the top 1MM
+- I'm not happy about it, not just because I hate feeding more money into the Bezos empire every month but because AWS has such a stranglehold on web service hosting of our size -- too big for a smaller hosting service, too small for our own data center. I just cannot help but think that it's a Bad Thing for academic/nonprofit services like ours to all be dependent on megacorps for our very presence. 
+- How much good does it do us to escape the extractive clutches of Elsevier and Springer-Nature if we’re doing so by jumping into the maw of AWS?
+- But if you don't want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren't many alternatives, and certainly not many good ones.
+- MSU, like most institutions, hosts a large scale data center — and in fact I think two, one owned and operated by central IT and one owned and operated by out supercomputing center. The latter can’t really help us, as it’s focused pretty exclusively on computational uses and not at all on web hosting. The former comes with a suite of restrictions and regulations in terms of access and security — understandable, given recent attacks and exploits such as the one that forced UM to disconnect the entire campus from the internet on the first day of classes — that make it impossible for us to be flexible enough with our work. 
+- So we’re stuck with commercial hosting, and given the complexity of our needs, we’re stuck with the major cloud services. But does it have to be that way?
+- We need to invent those alternatives, because as the example of OA publishing demonstrates, waiting for commercial providers to develop them will only increase our lock-in
 - What if we were to develop a consortium-based non-profit, in which all research institutions and other nonprofits who are members pay into a professionally staffed data center. Economies of scale coupled with community governance
 - UK institutions are thinking in this direction: https://www.silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462/amp
 - A consortium like this could be centralized -- asking each institution or organization to take what it's currently paying for its own infrastructure and instead contribute it to a shared community-owned infrastructure
