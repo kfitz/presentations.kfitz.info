@@ -178,7 +178,7 @@ Note: And operating in the open, both for the Commons and for hcommons.social, m
 Note: But. We aren’t a perfect alternative. And this is where we need to dig down into the dirty underside of digital infrastructure. As Deb Chachra points out,
 
 
-> “infrastructure hides itself. ‘Infra’ literally means ‘below’ – these systems are not just metaphorically but often literally invisible, in our walls and floors, under our roads, in a restricted area, or surrounded by a level of inattention that the science fiction author Douglas Adams satirically dscribed as a ‘Somebody Else’s Problem field.’… the harms associated with these systems are even more hidden, displaced by means of networks and energy.”
+> “infrastructure hides itself. ‘Infra’ literally means ‘below’ – these systems are not just metaphorically but often literally invisible, in our walls and floors, under our roads, in a restricted area, or surrounded by a level of inattention that the science fiction author Douglas Adams satirically described as a ‘Somebody Else’s Problem field.’”
 > 
 > <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em> </small></span>
 
@@ -190,12 +190,12 @@ Note: (READ SLIDE) If we are going to mitigate the inequities created by and sus
 Note: We need to take a hard look at the fact that the infrastructure that Humanities Commons is built upon is AWS, or Amazon Web Services. As you might guess from the name, AWS is part of the Greater Jeff Bezos Empire, and every dollar that we spend to host with them helps to keep that empire running. And run it does!
 
 
-![Chart of AWS revenue from 2013 to 2022](images/aws.png)<small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
+![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="85%" width="85%" --><small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
 
 Note: Amazon’s revenue derived from AWS passed $80 billion-with-a-b in 2022.
 
 
-![Amazon usage statistics](images/aws3.png)<small>trends.builtwith.com/hosting/Amazon</small>
+![Amazon usage statistics](images/aws3.png)<!-- .element height="85%" width="85%" --><small>trends.builtwith.com/hosting/Amazon</small>
 
 Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
 
