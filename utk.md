@@ -195,7 +195,7 @@ Note: We need to take a hard look at the fact that the infrastructure that Human
 Note: Amazon’s revenue derived from AWS passed $80 billion-with-a-b in 2022.
 
 
-![Amazon usage statistics](images/aws3.png)<!-- .element height="85%" width="85%" --><small>trends.builtwith.com/hosting/Amazon</small>
+![Amazon usage statistics](images/aws3.png)<!-- .element height="65%" width="65%" --><small>trends.builtwith.com/hosting/Amazon</small>
 
 Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
 
