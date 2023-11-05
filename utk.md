@@ -148,32 +148,113 @@ Note: We are also working to build and sustain the kinds of new platforms and se
 
 ## openness matters
 
-Note: 
-- from here: some stuff from “openness matters” on avoiding walled gardens
-- accountability and the idea that we’re responsible to our users
-- these two things come together for us in our commitment to provide alternatives to the many platforms that purport to make scholarly work more accessible but in fact serve as mechanisms of corporate data capture, extracting value from creators and institutions for private rather than public gain.
-- but: we aren't a perfect alternative either, and this is where we need to get down into the dirty underside of infrastructure
-- We're running the Commons on AWS, or Amazon Web Services
-- Why? AWS provides a suite of servers and tools that help us not just make our platform available but also help keep it stable and secure
-- (images/aws.png –- statista) Amazon’s revenue from AWS passed $80 billion in 2022, and as of today, (images/aws3.png – built with) AWS hosts 42 percent of the top 100,000 websites and 25 percent of the top 1MM
-- I'm not happy about it, not just because I hate feeding more money into the Bezos empire every month but because AWS has such a stranglehold on web service hosting of our size -- too big for a smaller hosting service, too small for our own data center. I just cannot help but think that it's a Bad Thing for academic/nonprofit services like ours to all be dependent on megacorps for our very presence. 
-- How much good does it do us to escape the extractive clutches of Elsevier and Springer-Nature if we’re doing so by jumping into the maw of AWS?
-- But if you don't want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren't many alternatives, and certainly not many good ones.
-- MSU, like most institutions, hosts a large scale data center — and in fact I think two, one owned and operated by central IT and one owned and operated by out supercomputing center. The latter can’t really help us, as it’s focused pretty exclusively on computational uses and not at all on web hosting. The former comes with a suite of restrictions and regulations in terms of access and security — understandable, given recent attacks and exploits such as the one that forced UM to disconnect the entire campus from the internet on the first day of classes — that make it impossible for us to be flexible enough with our work. 
-- So we’re stuck with commercial hosting, and given the complexity of our needs, we’re stuck with the major cloud services. But does it have to be that way?
-- We need to invent those alternatives, because as the example of OA publishing demonstrates, waiting for commercial providers to develop them will only increase our lock-in
-- What if we were to develop a consortium-based non-profit, in which all research institutions and other nonprofits who are members pay into a professionally staffed data center. Economies of scale coupled with community governance
-- UK institutions are thinking in this direction: https://www.silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462/amp
+Note: This kind of openness matters enormously, not just to ensure that we’re living up to the values that we’ve established for our projects, but to ensure that there’s a worthwhile future for them. Cory Doctorow has written extensively of late about what he has famously called the
+
+
+![Doctorow on enshittification](images/enshittification.png)<small>pluralistic.net/2023/01/21/potemkin-ai/#hey-guys</small>
+
+Note: “enshittification” of the internet, which stems directly from the funneling of what he here calls “surpluses,” but might also be described as attention, or energy, or value, being sucked out of the community and into the pockets of shareholders. As he notes, the forces of enshittification are everywhere on the internet today, with Twitter among the most obvious. 
+
+
+![Doctorow on walled gardens](images/walledgardens.png)<small>pluralistic.net/2023/08/06/fool-me-twice-we-dont-get-fooled-again/</small>
+
+Note: More recently, however, he’s written about why he’s sticking with Mastodon rather than jumping onto any of the big corporate services like Threads or Blue Sky, and says that it’s because he fundamentally *does not trust them*. He goes on to note the time and energy and brilliance and creativity that so many of us poured into Twitter, only to have it come to the [ignominious end](https://www.rollingstone.com/culture/culture-commentary/elon-musk-killed-twitter-one-year-1234840622/) that it seems to be nearing: “The only thing worse,” he says, “than having wasted all that time and energy would be to have wasted it —  and learned _nothing_.”
+
+
+## walled gardens
+
+Note: The problem with walled gardens is partly about their ownership, but largely about their governance. It’s not just that the owners of any particular proprietary network might turn out to be racist, fascist megalomaniacs – it’s that we have no control if and when they do. Choosing open platforms means that we as users have a say in the future of the plots of ground we choose to develop. This is especially true for the kinds of work, like knowledge production, that is intended to have a public benefit. It’s incumbent on us to ensure that those gardens aren't walled, that they don't just have a gate that management may one day decide to unlock to let select folks in or out. Rather, our gardens must be open from the start, open to connect and cultivate in the ways that we as a community decide.
+
+As Doctorow notes, Mastodon is far from perfect, and as much as I love our own instance, hcommons.social is far from perfect. But we're doing our best to ensure that we're running it in the open.
+
+
+## accountability and responsibility
+
+Note: And operating in the open, both for the Commons and for hcommons.social, means for us that we are accountable to our users and responsible for safeguarding the openness of their work. Together, those two ideals undergird our commitment to provide alternatives to the many platforms that purport to make scholarly work more accessible but in fact serve as mechanisms of corporate data capture, extracting value from creators and institutions for private rather than public gain.
+
+
+# but
+
+Note: But. We aren’t a perfect alternative. And this is where we need to dig down into the dirty underside of digital infrastructure. As Deb Chachra points out,
+
+
+> “infrastructure hides itself. ‘Infra’ literally means ‘below’ – these systems are not just metaphorically but often literally invisible, in our walls and floors, under our roads, in a restricted area, or surrounded by a level of inattention that the science fiction author Douglas Adams satirically dscribed as a ‘Somebody Else’s Problem field.’… the harms associated with these systems are even more hidden, displaced by means of networks and energy.”
+> 
+> <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em> </small></span>
+
+Note: (READ SLIDE) If we are going to mitigate the inequities created by and sustained through our infrastructures, we have to get busy unearthing those systems and finding ways to build new ones. And so:
+
+
+# AWS
+
+Note: We need to take a hard look at the fact that the infrastructure that Humanities Commons is built upon is AWS, or Amazon Web Services. As you might guess from the name, AWS is part of the Greater Jeff Bezos Empire, and every dollar that we spend to host with them helps to keep that empire running. And run it does!
+
+
+![Chart of AWS revenue from 2013 to 2022](images/aws.png)<small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
+
+Note: Amazon’s revenue derived from AWS passed $80 billion-with-a-b in 2022.
+
+
+![Amazon usage statistics](images/aws3.png)<small>trends.builtwith.com/hosting/Amazon</small>
+
+Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
+
+
+# why?
+
+Note: Why has Amazon become so powerful a force in web hosting and cloud computing? Largely because they provide not just servers but a powerful and wide-ranging suite of tools that help folks like us not just make our platform available but also help keep it stable and secure. AWS provides connected equipment and tools that would be more than a full-time job for someone to maintain in-house, and it provides extraordinary flexibility and scale. So… it works for us, just as it works for 42,000 of the top 100,000 websites across the internet. But I’m not happy about it. It’s not just that I hate feeding more money into the Bezos empire every month, but that I know for certain that our values and Bezos’s do not align. And every so often I have to stop and ask myself how much good it does for us to build pathways of escape from the extractive clutches of Elsevier and Springer-Nature, only to have them deliver us all into the maw of AWS?
+
+
+# ~~alternatives~~
+
+Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too complicated for a server kept under the desk, too big for a smaller hosting service, and too small for our own data center. And if you son’t want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren’t many alternatives, and certainly not many good ones.
+
+
+# MSU
+
+Note: My institution, Michigan State University, like most institutions its size, operates both a large-scale data center through our central IT unit and a high-performance computing center under the aegis of the office of research and innovation. The latter can’t really help us, as it’s focused pretty exclusively on computational uses and not at all on service hosting. And the former comes with a suite of restrictions and regulations in terms of access and security –
+
+
+![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="85%" width="85%" -->
+<small>cnn.com/2023/08/29/politics/university-of-michigan-cyber-incident-offline</small>
+
+Note: – pretty understandably so, given recent attacks and exploits such as the one that caused our neighbor to the east to disconnect the entire campus from the internet on the first day of classes – but nevertheless restrictions that make it impossible for us to be flexible enough with our work.
+
+
+## the cloud
+
+Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and the risk-averseness of the campus. And we have our pick! AWS, Microsoft’s Azure, and Google Cloud Services.
+
+
+!(This slide intentionally left blank)[images/blank.png]
+
+Note: I just can’t help but think that it’s a Bad Thing for academic and nonprofit services like ours – services that are working to be open, and public, and values aligned with our communities – to be dependent upon Silicon Valley megacorps for our very presence. We need alternatives. Real alternatives. And I fear that we’re going to have to invent them, because as the example of open access publishing demonstrates, waiting to see what commercial providers come up with is certain to increase our lock-in, and increase the level of resources they extract from our campuses.
+
+
+## community-led infrastructure
+
+Note: So what might it look like if we had community-led infrastructure for the future of knowledge production and dissemination all the way down? What might enable the Commons to leave AWS behind and instead contribute our resources to supporting a truly shared, openly governed, not-for-profit cloud service?
+
+
+## collaborative
+
+Note: Could such a service be collaborative, with all member research institutions and organizations paying into a shared, professionally staffed data center?
+
+
+![Screen shot of story about UK data center collaboration](images/uk-data-centre.png)<small>silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462</small>
+
+Note: King’s College London and Jisc think so – they established the first collaborative research data center in the world nine years ago, precisely in order to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
+
+
+![Internet 2 logo](images/internet2.png)
+
+Note: What if Internet2, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community?
+
+
 - A consortium like this could be centralized -- asking each institution or organization to take what it's currently paying for its own infrastructure and instead contribute it to a shared community-owned infrastructure
 - Or it could be decentralized -- where those institutions that maintain their own data centers allow others to use their excess capacity, like a hybrid of EAST and SETI@home
 - Or it could be a combination of the two
 - The key is governance
-
-
-
-
-
-
 
 
 ## thank you
