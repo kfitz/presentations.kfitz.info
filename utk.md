@@ -19,7 +19,7 @@ Note: If that's your reaction, you're not alone. As Deb Chachra points out in he
 - community-led decision making
 - public investment
 
-Note:  What I'm hoping to argue today is in large part that the scholarly communication infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
+Note:  Infrastructure matters, and the scholarly communication infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
 	- to work toward social and epistemic justice in our communication practices
 	- to center communities of practice and their concerns in our work
 	- to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve
@@ -226,7 +226,7 @@ Note: – pretty understandably so, given recent attacks and exploits such as th
 Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and the risk-averseness of the campus. And we have our pick! AWS, Microsoft’s Azure, and Google Cloud Services.
 
 
-!(This slide intentionally left blank)[images/blank.png]
+![This slide intentionally left blank](images/blank.png)
 
 Note: I just can’t help but think that it’s a Bad Thing for academic and nonprofit services like ours – services that are working to be open, and public, and values aligned with our communities – to be dependent upon Silicon Valley megacorps for our very presence. We need alternatives. Real alternatives. And I fear that we’re going to have to invent them, because as the example of open access publishing demonstrates, waiting to see what commercial providers come up with is certain to increase our lock-in, and increase the level of resources they extract from our campuses.
 
@@ -248,14 +248,15 @@ Note: King’s College London and Jisc think so – they established the first c
 
 ![Internet 2 logo](images/internet2.png)
 
-Note: What if Internet2, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community?
+Note: What if Internet2, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
 
 
-- A consortium like this could be centralized -- asking each institution or organization to take what it's currently paying for its own infrastructure and instead contribute it to a shared community-owned infrastructure
-- Or it could be decentralized -- where those institutions that maintain their own data centers allow others to use their excess capacity, like a hybrid of EAST and SETI@home
-- Or it could be a combination of the two
-- The key is governance
+- social and epistemic justice
+- communities of practice
+- community-led decision making
+- public investment
 
+Note:  We might find ourselves in a world in which the scholarly communication infrastructures on which we build, develop, design, and publish our work support our work toward social and epistemic justice, allow us to center communities of practice and their concerns, enable trustworthy community governance and decision-making, and use public investment in order to ensure an equitable future for knowledge production.
 
 ## thank you
 ---
