@@ -214,7 +214,7 @@ Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too
 Note: My institution, Michigan State University, like most institutions its size, operates both a large-scale data center through our central IT unit and a high-performance computing center under the aegis of the office of research and innovation. The latter can’t really help us, as it’s focused pretty exclusively on computational uses and not at all on service hosting. And the former comes with a suite of restrictions and regulations in terms of access and security –
 
 
-![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="85%" width="85%" -->
+![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="65%" width="65%" -->
 <small>cnn.com/2023/08/29/politics/university-of-michigan-cyber-incident-offline</small>
 
 Note: – pretty understandably so, given recent attacks and exploits such as the one that caused our neighbor to the east to disconnect the entire campus from the internet on the first day of classes – but nevertheless restrictions that make it impossible for us to be flexible enough with our work.
