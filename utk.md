@@ -194,7 +194,7 @@ Note: We need to take a hard look at the fact that the infrastructure that Human
 Note: Amazon’s revenue derived from AWS passed $80 billion-with-a-b in 2022.
 
 
-![Amazon usage statistics](images/aws3.png)<!-- .element height="65%" width="65%" --><small>trends.builtwith.com/hosting/Amazon</small>
+![Amazon usage statistics](images/aws3.png)<!-- .element height="60%" width="60%" --><small>trends.builtwith.com/hosting/Amazon</small>
 
 Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
 
@@ -247,7 +247,7 @@ Note: King’s College London and Jisc think so – they established the first c
 
 ![Internet 2 logo](images/internet2.png)
 
-Note: What if Internet2, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
+Note: What if Internet2, for instance, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
 
 
 - foster social and epistemic justice
@@ -255,6 +255,7 @@ Note: What if Internet2, instead of restricting its areas of interest to network
 - enable community-led decision making
 
 Note:  None of this will be easy, and a lot of the questions I’ve just asked fall – at least for the moment – into the realm of the pipe dream. But if we were to be willing to press forward with them, we might find ourselves in a world in which the scholarly communication infrastructures on which we build, develop, design, and publish our work can help us foster rather than hinder social and epistemic justice, can empower communities of practice by centering their needs and their work to meet them, and can enable trustworthy community governance and decision-making in support of truly open, public, shared infrastructures for the future of knowledge production.
+
 
 ## thank you
 ---
