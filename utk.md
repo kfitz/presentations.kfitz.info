@@ -157,7 +157,7 @@ Note: “enshittification” of the internet, which stems directly from the funn
 
 ![Doctorow on walled gardens](images/walledgardens.png)<small>pluralistic.net/2023/08/06/fool-me-twice-we-dont-get-fooled-again/</small>
 
-Note: More recently, however, he’s written about why he’s sticking with Mastodon rather than jumping onto any of the big corporate services like Threads or Blue Sky, and says that it’s because he fundamentally *does not trust them*. He goes on to note the time and energy and brilliance and creativity that so many of us poured into Twitter, only to have it come to the [ignominious end](https://www.rollingstone.com/culture/culture-commentary/elon-musk-killed-twitter-one-year-1234840622/) that it seems to be nearing: “The only thing worse,” he says, “than having wasted all that time and energy would be to have wasted it —  and learned _nothing_.”
+Note: More recently, however, he’s written about why he’s sticking with Mastodon rather than jumping onto any of the big corporate services like Threads or Blue Sky, and says that it’s because he fundamentally *does not trust them*. He goes on to note the time and energy and brilliance and creativity that so many of us poured into Twitter, only to have it come to the ignominious end that it seems to be nearing: “The only thing worse,” he says, “than having wasted all that time and energy would be to have wasted it —  and learned _nothing_.”
 
 
 ## walled gardens
@@ -191,7 +191,7 @@ Note: We need to take a hard look at the fact that the infrastructure that Human
 
 ![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="85%" width="85%" --><small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
 
-Note: Amazon’s revenue derived from AWS passed $80 billion-with-a-b in 2022.
+Note: Amazon’s revenue derived from AWS passed 80 billion-with-a-b dollars in 2022.
 
 
 ![Amazon usage statistics](images/aws3.png)<!-- .element height="60%" width="60%" --><small>trends.builtwith.com/hosting/Amazon</small>
@@ -201,12 +201,12 @@ Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, 
 
 # why?
 
-Note: Why has Amazon become so powerful a force in web hosting and cloud computing? Largely because they provide not just servers but a powerful and wide-ranging suite of tools that help folks like us not just make our platform available but also help keep it stable and secure. AWS provides connected equipment and tools that would be more than a full-time job for someone to maintain in-house, and it provides extraordinary flexibility and scale. So… it works for us, just as it works for 42,000 of the top 100,000 websites across the internet. But I’m not happy about it. It’s not just that I hate feeding more money into the Bezos empire every month, but that I know for certain that our values and Bezos’s do not align. And every so often I have to stop and ask myself how much good it does for us to build pathways of escape from the extractive clutches of Elsevier and Springer-Nature, only to have them deliver us all into the maw of AWS?
+Note: Why has Amazon become so powerful a force in web hosting and cloud computing? Largely because they provide not just servers but a powerful and wide-ranging suite of tools that help folks like us not just make our platform available but also help keep it stable and secure. AWS provides connected equipment and tools that would be more than a full-time job for someone to maintain in-house, and it provides extraordinary flexibility and scale. So… it works for us, just as it works for 42,000 of the top 100,000 websites across the internet. But I’m not happy about it. It’s not just that I hate feeding more money into the Bezos empire every month, but that I know for certain that our values and Bezos’s do not align. And every so often I have to stop and ask myself how much good it does for us to build pathways of escape from the extractive clutches of Elsevier and Springer-Nature, only to have those pathways deliver us all into the maw of AWS?
 
 
 # ~~alternatives~~
 
-Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too complicated for a server kept under the desk, too big for a smaller hosting service, and too small for our own data center. And if you son’t want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren’t many alternatives, and certainly not many good ones.
+Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too complicated for a server kept under the desk, too big for a smaller hosting service, and too small for our own data center. And if you don’t want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren’t many alternatives, and certainly not many good ones.
 
 
 # MSU
@@ -232,7 +232,7 @@ Note: I just can’t help but think that it’s a Bad Thing for academic and non
 
 ## community-led infrastructure
 
-Note: So what might it look like if we had community-led infrastructure for the future of knowledge production and dissemination all the way down? What might enable the Commons to leave AWS behind and instead contribute our resources to supporting a truly shared, openly governed, not-for-profit cloud service?
+Note: So what might it look like if our infrastructure for the future of knowledge production and dissemination was community-led all the way down? What might enable the Commons to leave AWS behind and instead contribute our resources to supporting a truly shared, openly governed, not-for-profit cloud service?
 
 
 ## collaborative
