@@ -245,7 +245,8 @@ Note: Could such a service be collaborative, with all member research institutio
 Note: King’s College London and Jisc think so – they established the first collaborative research data center in the world nine years ago, precisely in order to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
 
 
-![Internet 2 logo](images/internet2.png)
+![Internet 2 logo](images/internet2.png)<!-- .element height="85%" width="85%" -->
+<small>internet2.edu</small>
 
 Note: What if Internet2, for instance, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
 
