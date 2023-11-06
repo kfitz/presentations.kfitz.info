@@ -14,16 +14,15 @@ Note: Thank you so much. I'm delighted to have the opportunity to be with you he
 Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant new book, *How Infrastructure Works*, “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.” The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems’ engineering, they constrain the ways that culture can evolve.
 
 
-- social and epistemic justice
-- communities of practice
-- community-led decision making
-- public investment
+- foster social and epistemic justice
+- empower communities of practice
+- enable community-led decision making
 
 Note:  Infrastructure matters, and the scholarly communication infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
-	- to work toward social and epistemic justice in our communication practices
-	- to center communities of practice and their concerns in our work
+	- to foster social and epistemic justice in our knowledge production and communication practices
+	- to empower communities of practice and their concerns in the development and dissemination of knowledge
 	- to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve
-	- and to secure public investment in order to ensure that scholarly communication can become actually equitable
+But all of this requires commitment to open, public infrastructures, in order to ensure that scholarly communication can become actually equitable.
 
 
 ## actually equitable
@@ -251,12 +250,11 @@ Note: King’s College London and Jisc think so – they established the first c
 Note: What if Internet2, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
 
 
-- social and epistemic justice
-- communities of practice
-- community-led decision making
-- public investment
+- foster social and epistemic justice
+- empower communities of practice
+- enable community-led decision making
 
-Note:  We might find ourselves in a world in which the scholarly communication infrastructures on which we build, develop, design, and publish our work support our work toward social and epistemic justice, allow us to center communities of practice and their concerns, enable trustworthy community governance and decision-making, and use public investment in order to ensure an equitable future for knowledge production.
+Note:  None of this will be easy, and a lot of the questions I’ve just asked fall – at least for the moment – into the realm of the pipe dream. But if we were to be willing to press forward with them, we might find ourselves in a world in which the scholarly communication infrastructures on which we build, develop, design, and publish our work can help us foster rather than hinder social and epistemic justice, can empower communities of practice by centering their needs and their work to meet them, and can enable trustworthy community governance and decision-making in support of truly open, public, shared infrastructures for the future of knowledge production.
 
 ## thank you
 ---
