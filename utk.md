@@ -71,7 +71,12 @@ Note: Open access fee waivers are similarly a precarious exception within a larg
 
 ## ownership matters
 
-Note: All of which is to make the faintly obvious point that ownership matters, and especially when it comes to infrastructure. The publishers still own the journals, for instance, which are one key bit of the infrastructure on which we publish, and unless the ownership of the journal changes -- thus enabling a real transformation in the cultural expectations surrounding how the journal operates -- the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
+Note: All of which is to make the faintly obvious point that ownership matters, and especially when it comes to infrastructure. 
+
+
+![Screenshot from Mind the Gap](images/mindthegap.png)<small>mindthegap.pubpub.org/pub/gei072ab/release/2</small>
+
+Note: As the authors of the report entitled "Mind the Gap: A Landscape Analysis of Open Source Publishing Tools and Platforms" note, whatever progress might have been made in OA publishing was mitigated by the fact that the publishers still control the publishing infrastructure. They still own the journals, for instance, which are one key bit of the infrastructure on which we publish, and unless the ownership of the journal changes -- thus enabling a real transformation in the cultural expectations surrounding how the journal operates -- the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
 
 
 ## alternatives
