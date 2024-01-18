@@ -33,7 +33,7 @@ Note: What do I mean by "actually equitable," and how might what I'm describing 
 ![Budapest Open Access Initiative](images/boai.png)
 <small>budapestopenaccessinitiative.org/read/</small>
 
-Note: The open access movement was founded more than 20 years ago in order to make it possible -- as the original Budapest statement said -- to "share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge." By the time the Budapest group reconvened in 2022 to celebrate its 20th anniversary, it had become all too obvious that the dominant open access publishing mechanisms that had emerged in the interim had not had the desired impact.
+Note: The open access movement was founded more than 20 years ago in order to make it possible -- as the original Budapest statement said -- to "share the learning of the rich with the poor and the poor with the rich, make this literature as useful as it can be, and lay the foundation for uniting humanity in a common intellectual conversation and quest for knowledge." By the time the Budapest group reconvened in 2022 to celebrate its 20th anniversary, it had become all too obvious that the dominant open access publishing mechanisms that had emerged in the interim had not had the desired impact, leading the BOAI 20 statement to argue that "OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research"
 
 
 > “We became increasingly clear that OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research. We must assess the growth of OA against the gains and losses for these further ends. We must pick strategies to grow OA that are consistent with these further ends and bring us steadily closer to their realization.”
@@ -71,7 +71,12 @@ Note: Open access fee waivers are similarly a precarious exception within a larg
 
 ## ownership matters
 
-Note: All of which is to make the faintly obvious point that ownership matters, and especially when it comes to infrastructure. The publishers still own the journals, for instance, which are one key bit of the infrastructure on which we publish, and unless the ownership of the journal changes -- thus enabling a real transformation in the cultural expectations surrounding how the journal operates -- the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
+Note: All of which is to make the faintly obvious point that ownership matters, and especially when it comes to infrastructure. 
+
+
+![Screenshot from Mind the Gap](images/mindthegap.png)<small>mindthegap.pubpub.org/pub/gei072ab/release/2</small>
+
+Note: As the authors of the report entitled "Mind the Gap: A Landscape Analysis of Open Source Publishing Tools and Platforms" note, whatever progress might have been made in OA publishing was mitigated by the fact that the publishers still control the publishing infrastructure. They still own the journals, for instance, which are one key bit of the infrastructure on which we publish, and unless the ownership of the journal changes -- thus enabling a real transformation in the cultural expectations surrounding how the journal operates -- the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
 
 
 ## alternatives
