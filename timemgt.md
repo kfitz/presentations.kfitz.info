@@ -1,4 +1,4 @@
-## Time Management 
+# Time Management 
 ### for Overworked Mortals
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
@@ -7,23 +7,25 @@ MSU OFASD Leadership Institute // 19 January 2024</smaller>
 Note: Thank you so much. I’m super happy to get to share a few ideas with you about how to deal with the overflow of stuff facing you in your professional lives. I have to begin, however,
 
 
-<large>YMMV</large>
+# YMMV
 
 Note: with a great big caveat: Your Mileage May Vary. Which is to say that there is a ton of advice circulating, and you’ll get a bunch of it here today too, and lots of that advice is good but not all of it will work for you. On email management, for instance: lots of people will tell you that you should only check your email a couple of times a day. And I get that: if you can really, genuinely ignore your inbox other than during those times, it opens up a lot of brain space! But that would never in a million years work for me, and I can feel my heart rate climbing just contemplating it – I cannot bear not knowing what’s piling up in my inbox while I’m not looking. What I would instead suggest is that you need to figure out your own best work flow – which times of day are most productive for you, for what kinds of work, and what methods of time and inbox management work best for you. And all of that requires a fair bit of experimentation.
 
 
 # Email
-<span class=”fragment”>- Don’t use your inbox as a to-do list!</span>
+<span class=”fragment”>Don’t use your inbox as a to-do list.</span>
+<span class=”fragment”>Get rid of the small stuff quickly.</span>
+<span class=”fragment”>Move the bigger stuff into a proper to-do system.</span>
+<span class=”fragment”>Use other tools as much as possible.</span>
 
-Note: So, with that said, a few thoughts on email. 
+Note: So, with that said, a few thoughts on email. As my co-panelists have said/will say, I have found that using my email inbox as a to-do list is a HUGE error, not least because I start breaking out in hives when my inbox has more than about ten things in it, and my to-do list is ALWAYS longer than that. Not to mention that when the list of things in my inbox gets long enough that I have to scroll, I'm going to start forgetting stuff. My brain is a little simple that way: if it's not right in front of me, it doesn't exist. So I try to deal with email as quickly as I can. If a message can be dealt with in less than a minute or so, I try to take care of it right away, unless I'm in a period of focused work. If a message requires more consideration than that, or if it requires me to do something, I get it into my to-do workflow and either archive the message or use the Snooze function to have it reappear in my inbox at a point when I can deal with it. And as I think my colleagues will also say, I try to move as much internal communication out of email as possible. My research team and related colleagues rely heavily on Teams for most of our quick communication.
 
 
-- so, with that said, a few thoughts on email:
-	- as my co-panelists here have said/will say, I have found that using my email inbox as a to-do list is a HUGE error, not least because I start breaking out in hives when my inbox has more than about ten things in it, and my to-do list is ALWAYS longer than that
-	- not to mention that when the list of things in my inbox gets long enough that I have to scroll, I'm going to start forgetting stuff -- if it's not right in front of me, it doesn't exist
-	- So I try to deal with email as quickly as I can -- if a message can be dealt with in less than a minute or so, I try to take care of it right away, unless I'm in a period of focused work
-	- if a message requires more consideration than that, or if it requires me to do something, I get it into my to-do workflow and either archive the message or use the Snooze function to have it reappear in my inbox at a point when I can deal with it
-	- and as my colleagues will note, I try to move as much internal communication out of email as possible -- my research team and related colleagues rely heavily on Teams for most things
+# To Do
+
+
+
+
 - my to-do workflow has changed a lot in the last couple of years
 	- I used to use Things, which had Mac and iOS apps and really good organizational mechanisms
 	- but then a couple of years ago, I started using Obsidian for note-taking
