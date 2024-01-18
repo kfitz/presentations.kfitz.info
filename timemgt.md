@@ -7,7 +7,7 @@ MSU OFASD Leadership Institute // 19 January 2024</smaller>
 Note: Thank you so much. I’m super happy to get to share a few ideas with you about how to deal with the overflow of stuff facing you in your professional lives. I have to begin, however,
 
 
-<big>YMMV</big>
+<large>YMMV</large>
 
 Note: with a great big caveat: Your Mileage May Vary. Which is to say that there is a ton of advice circulating, and you’ll get a bunch of it here today too, and lots of that advice is good but not all of it will work for you. On email management, for instance: lots of people will tell you that you should only check your email a couple of times a day. And I get that: if you can really, genuinely ignore your inbox other than during those times, it opens up a lot of brain space! But that would never in a million years work for me, and I can feel my heart rate climbing just contemplating it – I cannot bear not knowing what’s piling up in my inbox while I’m not looking. What I would instead suggest is that you need to figure out your own best work flow – which times of day are most productive for you, for what kinds of work, and what methods of time and inbox management work best for you. And all of that requires a fair bit of experimentation.
 
