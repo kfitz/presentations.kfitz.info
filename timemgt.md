@@ -26,7 +26,6 @@ Note: So, with that said, a few thoughts on email. As my co-panelists have said/
 Note: My to-do workflow has changed a lot in the last few years. I used to use Things, which had Mac and iOS apps and really good organizational mechanisms. But then a couple of years ago, I started using Obsidian for note-taking.
 
 
-
 ![Screenshot of the obsidian.md website](images/obsidian.png)
 
 Note: Obsidian is a free application that allows you to use Markdown, which is a very simple formatting method, in order to create rich notes in plain-text format. It’s a powerful replacement for something like Evernote or OneNote, applications that use a proprietary format that keep your notes locked in. Since your Obsidian notes are just plain text, and because they all stay on your local machine in a regular folder that you designate, you can easily switch to another application if you want. Obsidian is not an open-source platform -- the primary code base is maintained by its own team -- but it is open to community extension, and so hundreds of Obsidian users have created open-source plugins that add all kinds of functionality to the base platform.
