@@ -41,7 +41,7 @@ Note: One of those plugins is Obsidian Tasks, which is now the center of my work
 Note: I also use a plugin called Kanban that allows me to see and order all the stuff I need to do (my backlog), the stuff I'm planning to do today, and the stuff I've completed in ways that help me visualize what’s ahead and drag tasks into new orders as their priority shifts. There’s also a plugin called ICS that allows me to pull my daily schedule in from my calendar.
 
 
-![Screenshot of today’s events and tasks](today.png)<!-- .element height="85%" width="85%" -->
+![Screenshot of today’s events and tasks](images/today.png)<!-- .element height="85%" width="85%" -->
 
 Note: And finally I use the Daily Notes function with a template that compiles my schedule, my to-dos for the day, and space for the day's journaling and meeting notes. 
 
@@ -63,7 +63,7 @@ Note: So every morning, as early as I can get myself to sit down at my desk, I c
 
 ## Process
 
-Note: My process is far from perfect, and I’m not always as on top of things as I’d like to be. (Case in point: I finished these slides at 8:45 this morning.) But knowing what I have to do, and knowing that it’s all accounted for, that things won’t fall through the cracks, really helps me keep my anxiety at bay, and honestly, that’s a lot.
+Note: The key thing is being able to trust your process. I don’t think mine is perfect, and I’m not always quite as on top of things as I’d like to be. (Case in point: I finished these slides at 8:45 this morning.) But knowing what I have to do, and knowing that it’s all accounted for, that things won’t fall through the cracks, really helps me keep my anxiety at bay, and honestly, that’s a lot.
 
 
 ## thank you
