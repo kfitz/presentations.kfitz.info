@@ -63,7 +63,7 @@ Note: So every morning, as early as I can get myself to sit down at my desk, I c
 
 ## Process
 
-Note: The key thing is being able to trust your process. I don’t think mine is perfect, and I’m not always quite as on top of things as I’d like to be. (Case in point: I finished these slides at 8:45 this morning.) But knowing what I have to do, and knowing that it’s all accounted for, that things won’t fall through the cracks, really helps me keep my anxiety at bay, and honestly, that’s a lot.
+Note: The key thing is being able to trust your process. I don’t think mine is perfect, and I’m not always quite as on top of things as I’d like to be. (Case in point: I finished these slides at 8:42 this morning.) But knowing what I have to do, and knowing that it’s all accounted for, that things won’t fall through the cracks, really helps me keep my anxiety at bay, and honestly, that’s a lot.
 
 
 ## thank you
