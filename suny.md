@@ -1,33 +1,32 @@
-## Open Infrastructures 
-### and the Future of Knowledge Production
+## Open Matters
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 SUNY Digital Learning Conference // 19 April 2024</smaller>
 
-Note: Thank you so much. I'm delighted to have the opportunity to be with you here today! It’s been great getting to hear some of what’s going on at your institutions, and I’m looking forward to sharing some of the thinking that my team at MSU and I have been doing about the ways that the future of knowledge production depends upon the openness of the infrastructures that support our work. And I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a super technical talk, do I really want to hear a lot about this? 
+Note: Thank you so much. I'm delighted to have the opportunity to be with you yesterday and today! It’s been great getting to hear some of what’s going on across the SUNY system, and I’m looking forward to sharing some of the thinking that my team at Michigan State and I have been doing about the future of knowledge creation and the ways that it depends on the openness of the infrastructures that support our work. I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a super technical talk, do I really want to hear a lot about this? 
 
 
 > “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”
 > 
 > <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em> </small></span>
 
-Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant new book, *How Infrastructure Works*, “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.” The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems’ engineering, they constrain the ways that culture can evolve.
+Note: If that's your reaction, you're not alone. As Deb Chachra points out in her brilliant book, *How Infrastructure Works*, “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.” The best thing that infrastructure can do is remain invisible and just work. But as Chachra also argues, the shape of our entire culture is dependent on our infrastructure, and where inequities are part of those systems’ engineering, they constrain the ways that culture can evolve.
 
 
 - foster social and epistemic justice
 - empower communities of practice
 - enable community-led decision making
 
-Note:  Infrastructure matters, and the scholarly communication infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
-	- to foster social and epistemic justice in our knowledge production and communication practices
+Note:  Infrastructure matters, and the educational and communications infrastructures on which we build, develop, design, and publish our work have deep implications for our abilities
+	- to foster social and epistemic justice in higher education, research, and other aspects of knowledge creation and sharing
 	- to empower communities of practice and their concerns in the development and dissemination of knowledge
 	- to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve
-But all of this requires commitment to open, public infrastructures, in order to ensure that scholarly communication can become actually equitable.
+But all of this requires commitment to open, public infrastructures, in order to ensure that the work we do in higher education can become actually equitable.
 
 
 ## actually equitable
 
-Note: What do I mean by "actually equitable," and how might what I'm describing intersect with the aims of the open access movement? We've heard a lot over the last twenty-plus years about the ways that open access should transform scholarly communication. If our work could be read more openly by anyone, it's been said, it might both have more impact on the world at large and create a more equitable knowledge environment. And it's of course true that open access in its many present flavors has done a lot to make more research available to be read online. But the movement toward open access began as a means of attempting to break the stranglehold that a few extractive corporate publishers have established over the research and publishing process -- and it hasn't succeeded. The last decade in particular has revealed all of the resilience with which capital responds to challenges, as those corporate publishers have in fact become more profitable than ever. Not only have they figured out how to exploit article processing charges in order to make *some* work published in their journals openly available while continuing to charge libraries for subscriptions to the journals as a whole, but they've also developed whole new business plans like the so-called "read and publish" agreements that keep many institutions tied to them, and they've developed new platforms and infrastructures like discovery engines and research information management systems that serve to increase corporate lock-in over the work produced on campus.
+Note: What do I mean by "actually equitable," and how might what I'm describing intersect with the aims of the open access and open education movements? We've heard a lot over the last twenty-plus years, for instance, about the ways that open access should transform scholarly communication. If our work could be read more openly by anyone, it's been said, it might both have more impact on the world at large and create a more equitable knowledge environment. And it's of course true that open access in its many present flavors has done a lot to make more research available to be read online. But the movement toward open access began as a means of attempting to break the stranglehold that a few extractive corporate publishers have established over the research and publishing process -- and it hasn't succeeded. The last decade in particular has revealed all of the resilience with which capital responds to challenges, as those corporate publishers have in fact become more profitable than ever. Not only have they figured out how to exploit article processing charges in order to make *some* work published in their journals openly available while continuing to charge libraries for subscriptions to the journals as a whole, but they've also developed whole new business plans like the so-called "read and publish" agreements that keep many institutions tied to them, and they've developed new platforms and infrastructures like discovery engines and research information management systems that serve to increase corporate lock-in over the work produced on campus.
 
 
 ![Budapest Open Access Initiative](images/boai.png)
