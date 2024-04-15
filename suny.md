@@ -78,9 +78,14 @@ Note: All of which is to make the faintly obvious point that ownership matters, 
 Note: As the authors of the report entitled "Mind the Gap: A Landscape Analysis of Open Source Publishing Tools and Platforms" note, whatever progress might have been made in OA publishing was mitigated by the fact that the publishers still control the publishing infrastructure. They still own the journals, for instance, which are one key bit of the infrastructure on which we publish, and unless the ownership of the journal changes -- thus enabling a real transformation in the cultural expectations surrounding how the journal operates -- the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
 
 
+## educational technologies
+
+Note: That’s all been a lot about publishing, but more or less everything I’ve said about corporate publishers and their control of infrastructure is doubly true of the ed tech landscape. The systems we use to "manage" (already a nervous-making word) our courses and student learning are too often technologies of extraction. They hoover up resources from our institutions and content from us and our students, and while their stated goals – creating the best possible environments for digital learning – may be admirable, their prime motive is by and large delivering value for shareholders. As a result, education is not the field they are serving, but rather the resource they are strip mining. Developing open-source, academy-owned alternatives to these platforms is a serious challenge, but one that demands to be met.
+
+
 ## alternatives
 
-Note: So what alternatives do we have? Well, we could move our journal-based publishing activity to nonprofit publishers, but it's of course important to note that the distinction I’ve just created between "corporate" and "nonprofit" is a vast oversimplification. There are corporations that are actually good actors in scholarly communication space, and there are nonprofits that are really, really not. What we might need to be paying more attention to is less business model per se than 
+Note: So what alternatives do we have? Well, in the realm of publishing, we could move our journals to nonprofit publishers, but it's of course important to note that the distinction between "corporate" and "nonprofit" is a vast oversimplification. There are corporations that are actually good actors in scholarly communication space, and there are nonprofits that are really, really not. What we might need to be paying more attention to is less business model per se than 
 
 
 ## alignment
