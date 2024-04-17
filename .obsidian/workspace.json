@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "d0ba8219fb0fe279",
+    "id": "5be991c01c6b8cd1",
     "type": "split",
     "children": [
       {
-        "id": "cf03fef70708291c",
+        "id": "35883ff603943d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "4e12ddad41aadfdd",
+            "id": "3e62d1fecb8a4222",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e8c7e7780981f3e",
+    "id": "956c2f55b2c56420",
     "type": "split",
     "children": [
       {
-        "id": "8b5c73000e7ccd9a",
+        "id": "3ba34aff1b40aa03",
         "type": "tabs",
         "children": [
           {
-            "id": "f03e1a12d127f876",
+            "id": "6043a9099eb64083",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "23c51d44a1a582cd",
+            "id": "74c6594c501e208a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ff4f12447ad0ac07",
+            "id": "441f57f9af3f15f1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 300
   },
   "right": {
-    "id": "88025c2e190ec6da",
+    "id": "5930e24f4f70ba64",
     "type": "split",
     "children": [
       {
-        "id": "ac788d2b419e86a5",
+        "id": "65b065a6b722a10e",
         "type": "tabs",
         "children": [
           {
-            "id": "de57b19f7e20a9d6",
+            "id": "4b08d1c8cd0c95d5",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "fe7b651239fae1a6",
+            "id": "400f7a6fe87e0d4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "3ec49a9cc818e0d3",
+            "id": "434f76d0ab0379a5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "d47e7c28bc02a8db",
+            "id": "f95acfebc05b36aa",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -130,7 +130,7 @@
             }
           },
           {
-            "id": "e75338ef30b79ca9",
+            "id": "59df4399e7df2188",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -155,46 +155,53 @@
       "vscode-editor:Create Code File": false
     }
   },
-  "active": "4e12ddad41aadfdd",
+  "active": "3e62d1fecb8a4222",
   "lastOpenFiles": [
-    "suny.html",
-    "utk.html",
+    "aiea.md",
     "suny.md",
-    "uwm.html",
-    "utk.md",
-    "reclaim.md",
+    "mla21.html",
+    "suny.html",
     "timemgt.md",
-    "images/today 1.png",
+    "wsu2.html",
+    "wsu.html",
+    "writinginpublic.html",
+    "workinginpublic.html",
+    "workinginpublic-short.html",
+    "whatcounts.html",
+    "waynestate.html",
+    "vatech2.html",
+    "apereo.md",
+    "oai13.md",
     "images/today.png",
     "images/kanban.png",
-    "uwm.md",
     "images/tasks.png",
     "images/obsidian.png",
-    "dist/theme/kfitz.css",
     "images/mindthegap.png",
-    "timemgt.html",
-    "oai13.md",
-    "opened.md",
-    "OSU.md",
-    "plymouth.md",
-    "scholarly-networks.md",
-    "sustainability.md",
-    "umn.md",
-    "images/internet2.png",
-    "internet2_logo_colorpos.png",
-    "images/uk-data-centre.png",
-    "images/blank.png",
-    "mwallt.md",
-    "montana.md",
-    "ku.md",
+    "images/dbercommons.png",
+    "images/passion.jpg",
+    "images/creativity.jpg",
+    "images/beprexit.png",
+    "images/bepress2.png",
+    "generous-thinking.md",
+    "plannedobsolescence.md",
     "dearborn.md",
-    "buffalo.md",
-    "amical.html",
-    "amical.md",
-    "plugin/notes/notes.js",
-    "plugin/notes/notes.esm.js",
-    "plugin/notes/plugin.js",
-    "plugin/notes/speaker-view.html",
-    "css/theme/README.md"
+    "workinginpublic.md",
+    "rutgers.md",
+    "cni19s.md",
+    "goethe.md",
+    "p2l3.md",
+    "ubc.md",
+    "cerada.md",
+    "friday.md",
+    "scholarly-networks.md",
+    "jfki.md",
+    "marist.md",
+    "uwm.md",
+    "vanderbilt.md",
+    "plymouth.md",
+    "pace.md",
+    "umn.md",
+    "vatech.md",
+    "sustainability.md"
   ]
 }
