@@ -3,7 +3,7 @@
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 SUNY Digital Learning Conference // 19 April 2024</smaller>
 
-Note: Thank you so much. I'm delighted to have the opportunity to be with you yesterday and today! It’s been great getting to hear some of what’s going on across the SUNY system, and I’m looking forward to sharing some of the thinking that my team at Michigan State and I have been doing about the future of knowledge creation and the ways that it depends on the openness of the infrastructures that support our work. I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a super technical talk, do I really want to hear a lot about this? 
+Note: Thank you so much. I'm delighted to have the opportunity to be with you yesterday and today! It’s been great getting to hear some of what’s going on across the SUNY system, and I’m looking forward to sharing some of the thinking that my team at Michigan State and I have been doing of late. Much of what I’m going to be talking about is focused on scholarly communication, but it has some deep resonances with what’s going on in the world of educational technology today. The tl;dr on this talk is that the future of knowledge creation depends heavily on the openness of the infrastructures that support our work. I know that for a lot of people, the word "infrastructure" triggers a yawn reflex -- like, oh great, a super technical talk, do I really want to hear a lot about this? 
 
 
 > “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”
@@ -109,7 +109,7 @@ Note: These platforms are, in other words, community-led, rather than investor-l
 > 
 > <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em></small></span>
 
-Note: (READ SLIDE) And this, more than anything, is what scholarly communication needs today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
+Note: (READ SLIDE) And this, more than anything, is what both scholarly communication and educational technology need today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
 
 
 ![Humanities Commons logo](images/hclogo-new.png)
@@ -119,20 +119,20 @@ Note: And this is the fundamental orientation and driving purpose of my own proj
 
 # the goal
 
-Note: Our goal is to provide a non-extractive, community-led and transparently governed alternative to commercial platforms. Beyond that, however, we want to encourage our users to rethink the purposes and the dynamics of publishing altogether, in ways that might allow for the development of new, open, collective, equitable processes of creating and sharing knowledge that recenter agency over the ways that scholarly work develops and circulates with the scholars themselves.
+Note: Our goal is to provide a non-extractive, community-led and transparently governed alternative to commercial platforms. Beyond that, however, we want to encourage our users to rethink the purposes and the dynamics of knowledge creation and dissemination altogether, in ways that might allow for the development of new, open, collective, equitable processes of creating and sharing our work that recenter agency with those who are actually doing the work.
 
 
 ![Screenshot of Humanities Commons front page](images/humcomm110423.png)
 <!-- .element height="85%" width="85%" -->
 <small>hcommons.org</small>
 
-Note: Humanities Commons is a multi-functional network supporting collaboration and communication among more than 50,000 researchers and practitioners across the humanities and around the world. The Commons brings together a large-scale WordPress-based publishing network with the social-networking capabilities made available by the BuddyPress plugin, allowing users to create rich profiles detailing their work, to participate in a wide range of group discussions, and to build individual or group websites that can serve as portfolios, journals, networked projects, and more.
+Note: Humanities Commons is a multi-functional network supporting collaboration and communication among more than 33,000 researchers and practitioners across the humanities and around the world. The Commons brings together a large-scale WordPress-based publishing network with the social-networking capabilities made available by the BuddyPress plugin, allowing users to create rich profiles detailing their work, to participate in a wide range of group discussions, and to build individual or group websites that can serve as portfolios, journals, networked projects, and more.
 
 
 ![Screenshot of repository item](images/deposit.png) <!-- .element height="85%" width="85%" -->
 <small>hcommons.org/deposits/item/mla:579</small>
 
-Note: Additionally, the Commons includes a Fedora/SOLR-based repository with a WP frontend, allowing members to upload their work, to share that work openly with the broader Commons network, and to have the digital object identifiers and other metadata attached to it that render a it permanently addressable part of the larger scholarly communication ecosystem.
+Note: Additionally, the Commons includes a library-grade repository with a WP frontend, allowing members to upload their work, to share that work openly with the broader Commons network, and to have the digital object identifiers and other metadata attached to it that render a it permanently addressable part of the larger scholarly communication ecosystem.
 
 
 ![Screenshot of MSU Commons](images/msucommons.png)
@@ -151,7 +151,7 @@ Note: Humanities Commons is built by and for scholars. It's a values-enacted pro
 ![Screenshot of hcommons.social](images/mastodon.png)<!-- .element height="85%" width="85%" -->
 <small>hcommons.social</small>
 
-Note: We are also working to build and sustain the kinds of new platforms and services that will allow for rich conversations among members of our community and between that community and the rest of the world. A year ago, seeing the handwriting on the wall for the platform formerly known as Twitter (and frankly having suffered through quite a number of unhappy years there before the beginning of the end), we launched hcommons.social, a Hometown-flavored Mastodon instance, in the hopes of providing a collegial, community-oriented space for informal communication among scholars and practitioners everywhere. We currently have just over 2000 users on our instance who are connecting with users throughout the Fediverse, and we support those users through a strong moderation policy and code of conduct. We also work to ensure that new policies and processes are discussed with that community before they’re implemented.
+Note: We are also working to build and sustain the kinds of new platforms and services that will allow for rich conversations among members of our community and between that community and the rest of the world. A year and a half ago, seeing the handwriting on the wall for the platform formerly known as Twitter (and frankly having suffered through quite a number of unhappy years there before the beginning of the end), we launched hcommons.social, a Hometown-flavored Mastodon instance, in the hopes of providing a collegial, community-oriented space for informal communication among scholars and practitioners everywhere. We currently have over 2000 users who have created accounts on our instance in order to connect with users throughout the Fediverse, and we support those users through a strong moderation policy and code of conduct. We also work to ensure that new policies and processes are discussed with that community before they’re implemented.
 
 
 ## openness matters
@@ -215,7 +215,7 @@ Note: Why has Amazon become so powerful a force in web hosting and cloud computi
 
 # ~~alternatives~~
 
-Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too complicated for a server kept under the desk, too big for a smaller hosting service, and too small for our own data center. And if you don’t want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren’t many alternatives, and certainly not many good ones.
+Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too big for a server kept under the desk, too complicated for a smaller hosting service, and too small for our own data center. And if you don’t want to deal with the risks and costs involved in owning and operating the metal yourself, there just aren’t many alternatives, and certainly not many good ones.
 
 
 # MSU
@@ -226,12 +226,12 @@ Note: My institution, Michigan State University, like most institutions its size
 ![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="65%" width="65%" -->
 <small>cnn.com/2023/08/29/politics/university-of-michigan-cyber-incident-offline</small>
 
-Note: – pretty understandably so, given recent attacks and exploits such as the one that caused our neighbor to the east to disconnect the entire campus from the internet on the first day of classes – but nevertheless restrictions that make it impossible for us to be flexible enough with our work.
+Note: – pretty understandably so, given recent attacks and exploits such as the one that caused our neighbor to the east to disconnect the entire campus from the internet on the first day of classes last fall – but nevertheless restrictions that make it impossible for us to be flexible enough with our work.
 
 
 ## the cloud
 
-Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and the risk-averseness of the campus. And we have our pick! AWS, Microsoft’s Azure, and Google Cloud Services.
+Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and the risk-averseness of the campus. And we have our pick! We can use AWS, Microsoft’s Azure, or Google Cloud Services.
 
 
 ![This slide intentionally left blank](images/blank.png)
@@ -254,10 +254,15 @@ Note: Could such a service be collaborative, with all member research institutio
 Note: King’s College London and Jisc think so – they established the first collaborative research data center in the world nine years ago, precisely in order to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
 
 
+![Access-ci logo](images/access-ci.png)<small>access-ci.org</small>
+
+Note: The NSF funded ACCESS-CI (which stands for Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support) project points in this direction, but the process of getting access (ha ha) to this infrastructure for a project like ours isn’t 100% clear, and it’s also not clear how durable and sustainable this program is. Real shared cyberinfrastructure will require a high degree of institutional collaboration to be viable.
+
+
 ![Internet 2 logo](images/internet2.png)<!-- .element height="85%" width="85%" -->
 <small>internet2.edu</small>
 
-Note: What if Internet2, for instance, instead of restricting its areas of interest to networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
+Note: So what if an organization like Internet2, for instance, instead of focusing on networking and protocols, and instead of offering to connect member institutions with corporate cloud services, instead provided a real alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute its existing infrastructure, along with its annual maintenance budget, to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might entice them away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
 
 
 - foster social and epistemic justice
