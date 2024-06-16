@@ -113,7 +113,7 @@ Note: These platforms are, in other words, community-led, rather than investor-l
 Note: (READ SLIDE) And this, more than anything, is what both scholarly communication and educational technology need today: broad-based accountability to scholars and fields and institutions rather than shareholders; long-term thinking and an ethos of meeting our needs rather than those of investors. Hence the call in the 20th anniversary Budapest statement for hosting open access research on open infrastructure: infrastructure that is led by us, and accountable to us.
 
 
-![Knowledge Commons logo](images/kcommons.png)
+![Knowledge Commons logo](images/KCommons.png)
 
 Note: And this is the fundamental orientation and driving purpose of my own project. Knowledge Commons, which originated from a desire to build new avenues for more open, more public, more universally accessible scholarly communication for everyone. In 2013, with support from the Mellon Foundation, the Modern Language Association launched an internally-focused social network, MLA Commons, designed to foster direct communication and collaboration amongst its members. In 2016, we extended that model, again with support from the Mellon Foundation and the National Endowment for the Humanities, to embrace other fields across the humanities, establishing Humanities Commons as a platform for interdisciplinary communication among scholars and practitioners around the world. We’ve recently rebranded as Knowledge Commons, in order to better represent our disciplinary inclusivity, but the key elements remain the same. Account creation is open to any interested user regardless of institutional affiliation, professional status, or organizational membership, and accounts are and will remain free of charge.
 
