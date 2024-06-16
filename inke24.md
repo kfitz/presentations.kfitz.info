@@ -1,4 +1,5 @@
-## Open Matters
+## Open Infrastructures 
+### for the Future of Knowledge Production
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 INKE: Creative Approaches to Open Social Scholarship // 17 June 2024</smaller>
