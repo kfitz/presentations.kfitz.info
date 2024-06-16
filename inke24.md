@@ -275,6 +275,6 @@ Note:  None of this will be easy, and a lot of the questions I’ve just asked f
 
 ## thank you
 ---
-<smaller>Kathleen Fitzpatrick // @kfitz // kfitz@msu.edu</smaller>
+<smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu</smaller>
 
 Note: Many thanks.
