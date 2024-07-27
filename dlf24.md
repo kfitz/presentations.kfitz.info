@@ -81,9 +81,9 @@ Note: So what are our alternatives? We can and should move our journals to nonpr
 Note: *alignment* at the level of our basic values and goals: ensuring that our concerns about equity, about inclusiveness, about the public good are matched by those of the partners with whom we choose to work. We might, for instance, explore the models presented by
 
 
-![Open Library of the Humanities logo](images/olh.png)<!-- .element height="85%" width="85%" -->
+![Open Library of the Humanities logo](images/olh.png)<!-- .element height="75%" width="75%" -->
 
-![Open Book Publishers logo](images/obp.png)<!-- .element height="85%" width="85%" -->
+![Open Book Publishers logo](images/obp.png)<!-- .element height="75%" width="75%" -->
 
 Note: "platinum" or "diamond" open-access publishers such as the Open Library of the Humanities, or Open Book Publishers. These platforms are working to develop new values-aligned business models for publishing that neither involve restricting access to published texts to individuals or libraries that can pay for them, nor restricting the ability to publish to those with who can cover publishing costs. They instead ask those institutions that can afford to contribute to their ongoing support to do so, thus keeping the platform open for everyone. They appeal to our shared commitments, and they rely on our investment to sustain their work -- and for that reason they remain accountable to us.
 
@@ -106,7 +106,7 @@ Note: And this is the fundamental orientation and driving purpose of my own proj
 
 
 ![Screenshot of Knowledge Commons front page](images/kcommons-061624.png)
-<!-- .element height="85%" width="85%" -->
+<!-- .element height="75%" width="75%" -->
 <small>hcommons.org</small>
 
 Note: Knowledge Commons is a multi-functional network supporting collaboration and communication among more than 40,000 researchers and practitioners across the disciplines and around the world. It allows users to create profiles, join discussion groups, build Wordpress websites, and more.
