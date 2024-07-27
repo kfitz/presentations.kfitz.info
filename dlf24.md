@@ -112,13 +112,13 @@ Note: And this is the fundamental orientation and driving purpose of my own proj
 Note: Knowledge Commons is a multi-functional network supporting collaboration and communication among more than 40,000 researchers and practitioners across the disciplines and around the world. It allows users to create profiles, join discussion groups, build Wordpress websites, and more.
 
 
-![Screenshot of repository item](images/kc-deposit-061624.png) <!-- .element height="85%" width="85%" -->
+![Screenshot of repository item](images/kc-deposit-061624.png) <!-- .element height="75%" width="75%" -->
 <small>hcommons.org/deposits/item/mla:579</small>
 
 Note: Most importantly, the Commons includes an integrated repository system, allowing members to upload and share their work openly and to have the DOIs and other metadata attached to it that render it an accessible, interoperable part of the scholarly ecosystem. (Spoiler alert: we're launching a completely rebuilt and totally turbocharged repository very very soon -- if you'd like a preview, stop by our table during a coffee break!)
 
 
-![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="85%" width="85%" -->
+![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="75%" width="75%" -->
 <small>sustaining.hcommons.org</small>
 
 Note: Knowledge Commons has developed to this point thanks to generous support from the Mellon Foundation, the National Endowment for the Humanities, the National Science Foundation, and several other funders. Sustaining the Commons, however, requires us to become less dependent on grant funding, which as we all know all too well is predominantly project-oriented, and instead to seek the institutional investments that can sustain our day-to-day operations. We offer a range of services -- including hosting a Commons node branded for your institution and its members -- that we hope will inspire such investment. But this model requires us to ensure that our values, purpose, and vision remain at the heart of our work. And so we have a participatory governance structure that enables both individual users and our institutional partners to have a voice in the project's future, we have developed network policies that emphasize inclusion and openness, and we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
@@ -154,12 +154,12 @@ Note: But even as we work to become a trusted form of open infrastructure, we fa
 Note: We need to take a hard look at the fact that the infrastructure that Knowledge Commons and so many other open initiatives are built upon is AWS, or Amazon Web Services, part of the Greater Jeff Bezos Empire. Every dollar that we spend to host with them helps to keep that empire running. And run it does!
 
 
-![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="85%" width="85%" --><small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
+![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="75%" width="75%" --><small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
 
 Note: Amazon’s revenue derived from AWS passed 80 billion-with-a-b dollars in 2022.
 
 
-![Amazon usage statistics](images/aws3.png)<!-- .element height="60%" width="60%" --><small>trends.builtwith.com/hosting/Amazon</small>
+![Amazon usage statistics](images/aws3.png)<!-- .element height="50%" width="50%" --><small>trends.builtwith.com/hosting/Amazon</small>
 
 Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
 
@@ -179,7 +179,7 @@ Notes: AWS has a stranglehold on web-based platforms of our size, as we’re too
 Note: Here at MSU, like many other research universities, we have both an institutional data center operated by central IT and a high-performance computing center running under the aegis of the office of research and innovation. The latter can’t really help us, as it’s focused pretty exclusively on computational uses and not at all on service hosting. And the former comes with a suite of restrictions and regulations in terms of access and security –
 
 
-![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="65%" width="65%" -->
+![Screenshot from CNN: U Michigan shuts down internet connections](images/umich.png)<!-- .element height="55%" width="55%" -->
 <small>cnn.com/2023/08/29/politics/university-of-michigan-cyber-incident-offline</small>
 
 Note: – pretty understandably so, given recent attacks and exploits such as the one that caused our neighbor to the east to disconnect the entire campus from the internet on the first day of classes last fall – but nevertheless restrictions that make it impossible for us to be flexible enough with our work.
@@ -200,7 +200,8 @@ Note: I just can’t help but think that it’s a Bad Thing for academic and non
 Note: So what might it look like for the infrastructure of knowledge production and dissemination to be community-led all the way down? What might enable the Commons to leave AWS behind and instead contribute our resources to supporting a truly shared, openly governed, not-for-profit cloud service?
 
 
-![Screen shot of story about UK data center collaboration](images/uk-data-centre.png)<small>silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462</small>
+![Screen shot of story about UK data center collaboration](images/uk-data-centre.png)<!-- .element height="75%" width="75%" -->
+<small>silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462</small>
 
 Note: Such a collaborative, community operated cloud service is not impossible to imagine. King’s College London and Jisc established the first collaborative research data center in the world nine years ago to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
 
@@ -210,7 +211,7 @@ Note: Such a collaborative, community operated cloud service is not impossible t
 Note: The NSF funded ACCESS-CI project points in this direction, but the process of getting access (ha ha) to this infrastructure for a project like ours isn’t 100% clear, and it’s also not clear how durable and sustainable such access would be. 
 
 
-![Internet 2 logo](images/internet2.png)<!-- .element height="85%" width="85%" -->
+![Internet 2 logo](images/internet2.png)<!-- .element height="75%" width="75%" -->
 <small>internet2.edu</small>
 
 Note: Real shared cyberinfrastructure will require a high degree of commitment from a large number of institutions to be viable. So what if an organization like Internet2 that already has such commitment were to offer an alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute access to its existing infrastructure and some portion of its annual maintenance budget to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might draw us away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
