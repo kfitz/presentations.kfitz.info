@@ -106,7 +106,7 @@ Note: And this is the fundamental orientation and driving purpose of my own proj
 
 
 ![Screenshot of Knowledge Commons front page](images/kcommons-061624.png)
-<!-- .element height="65%" width="65%" -->
+<!-- .element height="60%" width="60%" -->
 <small>hcommons.org</small>
 
 Note: Knowledge Commons is a multi-functional network supporting collaboration and communication among more than 40,000 researchers and practitioners across the disciplines and around the world. It allows users to create profiles, join discussion groups, build Wordpress websites, and more.
