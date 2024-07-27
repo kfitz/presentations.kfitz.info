@@ -5,6 +5,7 @@ DLF Forum 2024 // 17 June 2024</smaller>
 
 Note: Thank you so much. I'm delighted to have the opportunity to welcome you to East Lansing, to Michigan State University, and to Wells Hall. Wells is a key bit of infrastructure for the College of Arts & Letters, housing several of our departments and a whole lot of our classes, and like a whole lot of infrastructures, we mostly don't pay it a lot of attention until things go wrong. This isn't all that unusual.
 
+
 > “Infrastructural systems are famously boring because the best possible outcome is nothing happening, or at least nothing unexpected or untoward.”
 > 
 > <span style="float:right;"><small>—Deb Chachra, <em>How Infrastructure Works</em> </small></span>
