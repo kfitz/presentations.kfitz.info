@@ -154,12 +154,14 @@ Note: But even as we work to become a trusted form of open infrastructure, we fa
 Note: We need to take a hard look at the fact that the infrastructure that Knowledge Commons and so many other open initiatives are built upon is AWS, or Amazon Web Services, part of the Greater Jeff Bezos Empire. Every dollar that we spend to host with them helps to keep that empire running. And run it does!
 
 
-![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="75%" width="75%" --><small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
+![Chart of AWS revenue from 2013 to 2022](images/aws.png)<!-- .element height="75%" width="75%" -->
+<small>statista.com/statistics/233725/development-of-amazon-web-services-revenue/</small>
 
 Note: Amazon’s revenue derived from AWS passed 80 billion-with-a-b dollars in 2022.
 
 
-![Amazon usage statistics](images/aws3.png)<!-- .element height="50%" width="50%" --><small>trends.builtwith.com/hosting/Amazon</small>
+![Amazon usage statistics](images/aws3.png)<!-- .element height="50%" width="50%" --><br />
+<small>trends.builtwith.com/hosting/Amazon</small>
 
 Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, and 25 percent of the top one million – ironically enough including BuiltWith, the site from which these data are made available.
 
@@ -211,7 +213,7 @@ Note: Such a collaborative, community operated cloud service is not impossible t
 Note: The NSF funded ACCESS-CI project points in this direction, but the process of getting access (ha ha) to this infrastructure for a project like ours isn’t 100% clear, and it’s also not clear how durable and sustainable such access would be. 
 
 
-![Internet 2 logo](images/internet2.png)<!-- .element height="75%" width="75%" -->
+![Internet 2 logo](images/internet2.png)<!-- .element height="75%" width="75%" --><br />
 <small>internet2.edu</small>
 
 Note: Real shared cyberinfrastructure will require a high degree of commitment from a large number of institutions to be viable. So what if an organization like Internet2 that already has such commitment were to offer an alternative – one that was not just developed for the academic community but that would be governed by that community? What if each member institution or organization agreed to contribute access to its existing infrastructure and some portion of its annual maintenance budget to a shared, distributed, community-owned cloud computing center? Could excess capacity then be offered at reasonable prices to other nonprofit institutions or organizations or projects like mine, in a way that might draw us away from the Silicon Valley megacorps? Would our institutions, our libraries, our publishers, and our many other web-based projects find themselves with better control over their futures?
