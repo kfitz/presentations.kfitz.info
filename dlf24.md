@@ -1,7 +1,7 @@
 ## Open Matters
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
-DLF Forum 2024 // 17 June 2024</smaller>
+DLF Forum 2024 // 30 July 2024</smaller>
 
 Note: Thank you so much. I'm delighted to have the opportunity to welcome you to East Lansing, to Michigan State University, and to Wells Hall. Wells is a key bit of infrastructure for the College of Arts & Letters, housing several of our departments and a whole lot of our classes, and like a whole lot of infrastructures, we mostly don't pay it a lot of attention until things go wrong. This isn't all that unusual.
 
