@@ -1,4 +1,4 @@
-## Open Matters
+# Open Matters
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu<br />
 DLF Forum 2024 // 30 July 2024</smaller>
