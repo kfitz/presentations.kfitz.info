@@ -18,27 +18,23 @@ Infrastructure determines whether we can
 - empower communities of practice
 - enable community-led decision making
 
-Note:  So infrastructure matters, and the infrastructures on which the scholarly community relies in order to build, develop, design, and publish our work have deep implications for our abilities
-	- to foster social and epistemic justice in higher education
-	- to empower communities of practice and their concerns in the development and dissemination of knowledge, and
-	- to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve.
-Ensuring these positive outcomes requires commitment to the open, public infrastructures that can enable the work we do in higher education to become actually equitable.
+Note:  So infrastructure matters, and the infrastructures on which the scholarly community relies in order to build, develop, design, and publish our work have deep implications for our abilities to foster social and epistemic justice in higher education, to empower communities of practice and their concerns in the development and dissemination of knowledge, and to enable trustworthy governance and decision-making that is led by the communities that our publications and platforms are intended to serve. Succeeding in these goals requires commitment to the open, public infrastructures that can enable the work we do in higher education to become actually equitable.
 
 
 ## actually equitable
 
-Note: What do I mean when I say "actually equitable," and how might what I'm describing intersect with the aims of the open access movement? We've heard a lot over the last twenty-plus years about the ways that open access should transform scholarly communication, and it's of course true that a lot has been done to make more research available to be read online. But the movement toward open access began as a means of attempting to break the stranglehold that a few extractive corporate publishers held over the research and publishing process -- and in that, it hasn't succeeded. The last decade in particular has revealed all of the resilience with which capital responds to challenges, as those publishers have in fact become more profitable than ever by figuring out how to exploit APCs, hybrid publishing models, and even whole new business plans like the so-called "read and publish" agreements that keep us tied to them. They've developed new platforms and infrastructures like discovery engines and research information management systems, and all of that serves to increase corporate lock-in over the work produced on campus.
+Note: What do I mean when I say "actually equitable"? I want to start by thinking for a second about the open access movement. We've heard a lot over the last twenty-plus years about the ways that open access can transform scholarly communication, and it's true that a lot has been done to make more research available to be read online. But the movement toward open access began as a means of attempting to break the stranglehold that a few extractive corporate publishers held over the research and publishing process -- and in that, it hasn't succeeded. The last decade in particular has revealed all of the resilience with which capital responds to challenges, as those publishers have in fact become more profitable than ever by figuring out how to exploit APCs, hybrid publishing models, and even whole new business plans like the so-called "read and publish" agreements that keep us tied to them. They've developed new platforms and infrastructures like discovery engines and research information management systems, and all of that serves to increase corporate lock-in over the work produced on campus.
 
 
 > “We became increasingly clear that OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research. We must assess the growth of OA against the gains and losses for these further ends. We must pick strategies to grow OA that are consistent with these further ends and bring us steadily closer to their realization.” <span style="float:right;"><small>—BOAI 20</small></span>
 
-Note: In fact, by the time the Budapest Open Access Initiative group reconvened in 2022 to celebrate its 20th anniversary, it had become all too obvious that the dominant OA publishing mechanisms that had emerged in the interim had not had the desired impact, leading the BOAI 20 statement to argue that "OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research." Thanks to the resilience of the corporations that control the infrastructure of scholarly communication, open access in its dominant forms today has if anything *reduced* equity, by attaching high fees to the formats and platforms that allow publications to circulate most widely. Scholars whose fields, institutions, or nations do not have ready access to grant funding or other means of subsidizing publishing fees thus get silenced, closed out of participation in sharing their work.
+Note: In fact, by the time the authors of the original Budapest statement reconvened in 2022 to celebrate its 20th anniversary, it was obvious that the dominant OA publishing mechanisms that had emerged in the interim had not had the desired impact, leading the BOAI 20 statement to argue that "OA is not an end in itself, but a means to other ends, above all, to the equity, quality, usability, and sustainability of research." Thanks to the resilience of the corporations that control the infrastructure of scholarly communication, open access in several key forms has if anything *reduced* equity, by attaching high fees to the formats and platforms that allow publications to circulate most widely. Scholars whose fields, institutions, or nations do not have ready access to grant funding or other means of subsidizing publishing fees thus get silenced, closed out of participation in sharing their work.
 
 
 ![BOAI20 recommendation](images/BOAI20.png)
 <small>budapestopenaccessinitiative.org/boai20/</small>
 
-Note: It’s for this reason that the 20th anniversary Budapest recommendations led with a call to host open access research on open infrastructure, recognizing that the control of the infrastructure by profit-seeking entities cements inequities – and this is true even where those publishers purport to create opportunities for the disadvantaged by offering fee waivers and discounts on their publishing charges. Those discounts only serve to normalize a model in which it is considered correct for those who produce knowledge to pay corporations to host and circulate it.
+Note: It’s for this reason that the 20th anniversary Budapest recommendations led with a call to host open access research on open infrastructure, recognizing that the control of the infrastructure by profit-seeking entities cements inequities – and this is true even where those publishers purport to create opportunities for the disadvantaged by offering fee waivers and discounts on their publishing charges. Those discounts only serve to enshrine a model in which it is considered correct for those who produce knowledge to pay corporations to host and circulate it.
 
 
 ## Wait, what?
@@ -61,19 +57,14 @@ Note: Take, as an example, the case of "fair use," which as we all know is not a
 Note: Open access fee waivers are similarly a precarious exception within a larger culture of corporate control of the mechanisms of publishing. That exception presumes that you *should* pay to make use of their infrastructure, even if in *your particular case* they might bend the rules. Every time we accept a corporate publisher's discount or fee waiver, or make use of a "read and publish" deal, or otherwise use public funds to cover the increasingly ridiculous sums charged in order to circulate the products of research, we help strengthen the argument that it's perfectly normal for corporations to control the flow of knowledge and to profit from doing so.
 
 
-## ownership matters
-
-Note: All of which is to make the faintly obvious point that ownership matters, and especially when it comes to infrastructure. 
-
-
 ![Screenshot from Mind the Gap](images/mindthegap.png)<small>mindthegap.pubpub.org/pub/gei072ab/release/2</small>
 
-Note: As the authors of "Mind the Gap" note, the problem with our current OA model is that corporate publishers still largely control the publishing *infrastructure*. They still own the journals, for instance, and unless the ownership of the journal changes, the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
+Note: All of which is to make the faintly obvious point that ownership matters. As the authors of "Mind the Gap" note, the problem with our current OA model is that corporate publishers still largely control the publishing *infrastructure*. They still own the journals, for instance, and unless the ownership of the journal changes, the infrastructure remains out of our control. All that's changed is the means through which we pay to access it.
 
 
 ## alternatives
 
-Note: So what are our alternatives? We can and should move our journals to nonprofit publishers, but it's important to note that the distinction between "corporate" and "nonprofit" is a vast oversimplification. There are corporations that are actually good actors in scholarly communication space, and there are nonprofits that are really, really not. We need to pay more attention not just to business model but to 
+Note: So what are our alternatives? We can and should move our journals to nonprofit publishers, but it's important to note that the distinction between "corporate" and "nonprofit" is a vast oversimplification. There are corporations that are good actors in scholarly communication space, and there are nonprofits that are really, really not. We need to pay more attention not just to business model but to 
 
 
 ## alignment
@@ -85,7 +76,7 @@ Note: *alignment* at the level of our basic values and goals: ensuring that our 
 
 ![Open Book Publishers logo](images/obp.png)<!-- .element height="75%" width="75%" -->
 
-Note: "platinum" or "diamond" open-access publishers such as the Open Library of the Humanities, or Open Book Publishers. These platforms are working to develop new values-aligned business models for publishing that neither involve restricting access to published texts to individuals or libraries that can pay for them, nor restricting the ability to publish to those with who can cover publishing costs. They instead ask those institutions that can afford to contribute to their ongoing support to do so, thus keeping the platform open for everyone. They appeal to our shared commitments, and they rely on our investment to sustain their work -- and for that reason they remain accountable to us.
+Note: "platinum" or "diamond" open-access publishers such as the Open Library of the Humanities, or Open Book Publishers. These platforms are working to develop new values-aligned business models for publishing that neither involve restricting reading access to individuals or libraries that can pay, nor restricting publishing access to those who can cover author-side costs. They instead ask those institutions that can afford to contribute to their ongoing support to do so, thus keeping the platform open for everyone. They appeal to our shared values, and they rely on our investment to sustain their work -- and for that reason they remain accountable to us.
 
 
 ## community-led infrastructure
@@ -121,7 +112,7 @@ Note: Most importantly, the Commons includes an integrated repository system, al
 ![Screenshot of sustaining.hcommons.org](images/sustaining.png) <!-- .element height="75%" width="75%" -->
 <small>sustaining.hcommons.org</small>
 
-Note: Knowledge Commons has developed to this point thanks to generous support from the Mellon Foundation, the National Endowment for the Humanities, the National Science Foundation, and several other funders. Sustaining the Commons, however, requires us to become less dependent on grant funding, which as we all know all too well is predominantly project-oriented, and instead to seek the institutional investments that can sustain our day-to-day operations. We offer a range of services -- including hosting a Commons node branded for your institution and its members -- that we hope will inspire such investment. But this model requires us to ensure that our values, purpose, and vision remain at the heart of our work. And so we have a participatory governance structure that enables both individual users and our institutional partners to have a voice in the project's future, we have developed network policies that emphasize inclusion and openness, and we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
+Note: Knowledge Commons has developed to this point thanks to generous support from the Mellon Foundation, the National Endowment for the Humanities, the National Science Foundation, and several other funders. Sustaining the Commons, however, requires us to become less dependent on grant funding, which as we all know all too well is predominantly project-oriented, and instead to seek the institutional investments that can sustain our day-to-day operations. We offer a range of services -- including hosting a Commons instance branded for your institution and its members -- that we hope will inspire such investment. But this model requires us to ensure that our values, purpose, and vision remain at the heart of our work. And so we have a participatory governance structure that enables both individual users and our institutional partners to have a voice in the project's future, we have developed network policies that emphasize inclusion and openness, and we are committed to transparency in our finances, and most importantly to remaining not-for-profit in perpetuity. 
 
 
 ## openness matters
@@ -146,7 +137,7 @@ Note: For Knowledge Commons, operating in the open means that we are accountable
 
 # but
 
-Note: But even as we work to become a trusted form of open infrastructure, we face our own struggles with the walled garden. And this is where we need to dig down into the dirty underside of our infrastructure, which, as Chachra notes, is usually buried out of view. If we are going to mitigate the inequities created by and sustained through our infrastructures, we have to get busy unearthing those systems and find ways to build new ones. And so:
+Note: But even as we work to become a trusted form of open infrastructure, we face our own struggles with the walled garden. And this is where we need to dig down into the dirty underside of infrastructure, which, as Chachra notes, is usually buried out of view. If we are going to mitigate the inequities created by and sustained through infrastructure, we have to get busy unearthing those systems and find ways to build new ones. And so:
 
 
 # AWS
@@ -168,7 +159,7 @@ Note: and as of August 2023, AWS hosted 42 percent of the top 100,000 websites, 
 
 # why?
 
-Note: Why has Amazon become so powerful a force in web hosting and cloud computing? Largely because they provide not just servers but a powerful suite of tools that help folks like us keep our platform stable and secure and enable it to scale with enormous flexibility. AWS provides services that would be more than a full-time job for someone to maintain in-house, and it enables redundancy and global reach at speed. AWS also crucially soothes our institutions' risk management anxieties by moving traffic off-campus. So… it works for us, just as it works for 42,000 of the top 100,000 websites across the internet. But I’m not happy about it. It’s not just that I hate feeding more money into the Bezos empire every month, but that I know for certain that our values do not align. And every so often I have to stop and ask how much good it does for us to build pathways of escape from the extractive clutches of Elsevier and Springer-Nature, only to have those pathways deliver us all into the gaping maw of Amazon?
+Note: Why has Amazon become so powerful a force in web hosting and cloud computing? Largely because they provide not just servers but a powerful suite of tools that help folks like us keep our platform stable and secure and enable it to scale with enormous flexibility. AWS provides services that would be more than a full-time job for someone to maintain in-house, and it enables redundancy and global reach at speed. AWS also crucially soothes our institutions' risk management anxieties by moving traffic off-campus. So… it works for us, just as it works for 42,000 of the top 100,000 websites across the internet. But I’m not happy about it. It’s not just that I hate feeding more money into the Bezos empire every month, but that I know for certain that our values do not align. And every so often I have to stop and ask how much good it does for us to build pathways of escape from the extractive clutches of Elsevier and friends, only to have those pathways deliver us all into the gaping maw of Amazon?
 
 
 # ~~alternatives~~
@@ -189,12 +180,12 @@ Note: – pretty understandably so, given recent attacks and exploits such as th
 
 ## the cloud
 
-Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and risks we present to the campus. They've even negotiated good contracts for us, and we have our pick! We can use AWS, Microsoft’s Azure, or Google Cloud Services.
+Note: And, in fact, central IT strongly encourages projects like ours to make use of cloud computing, given the complexity of our needs and risks we present to the campus. They've even negotiated discounts for us, and we have our pick! We can use AWS, Microsoft’s Azure, or Google Cloud Services.
 
 
 ![This slide intentionally left blank](images/blank.png)
 
-Note: I just can’t help but think that it’s a Bad Thing for academic and nonprofit services – services that are working to be open, and public, and values enacted – to be dependent upon Silicon Valley megacorps. We need real alternatives. And just like open access, any discounts or special provisions that commercial providers come up with are certain to increase our lock-in, and increase the level of resources they extract from our campuses.
+Note: I just can’t help but think that it’s a Bad Thing for academic and nonprofit services – services that are working to be open, and public, and values enacted – to be dependent upon Silicon Valley megacorps. We need real alternatives. And as with open access, any discounts or special provisions that commercial providers come up with are certain to increase our lock-in, and increase the level of resources they extract from our campuses.
 
 
 ## community-led infrastructure
@@ -205,7 +196,7 @@ Note: So what might it look like for the infrastructure of knowledge production 
 ![Screen shot of story about UK data center collaboration](images/uk-data-centre.png)<!-- .element height="75%" width="75%" -->
 <small>silicon.co.uk/cloud/why-data-centre-collaboration-is-key-to-success-for-uk-research-165462</small>
 
-Note: Such a collaborative, community operated cloud service is not impossible to imagine. King’s College London and Jisc established the first collaborative research data center in the world nine years ago to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
+Note: A collaborative, community operated cloud service is not impossible to imagine. King’s College London and Jisc established the first collaborative research data center in the world nine years ago to help UK institutions achieve economies of scale, to increase energy efficiency, and to reduce costs. Of course, it’s a lot easier to get all the UK institutions of higher education on board with such a centralized initiative, partly because there are fewer of them and partly because they are all centrally funded.
 
 
 ![Access-ci logo](images/access-ci.png)<small>access-ci.org</small>
