@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: km7qq-edzml
+created: 2024-07-29T13:13:54-04:00

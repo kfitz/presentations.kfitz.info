@@ -1,5 +1,3 @@
-@use "sass:math";
-
 /**
  * reveal.js
  * http://revealjs.com
@@ -8,6 +6,7 @@
  * Copyright (C) Hakim El Hattab, https://hakim.se
  */
 
+@use "sass:math";
 @import 'layout';
 
 /*********************************************
@@ -631,9 +630,14 @@ $controlsArrowAngleActive: 36deg;
 	touch-action: pinch-zoom;
 }
 
-// Swiping on an embedded deck should not block page scrolling
+// Swiping on an embedded deck should not block page scrolling...
 .reveal.embedded {
 	touch-action: pan-y;
+}
+
+// ... unless we're on a vertical slide
+.reveal.embedded.is-vertical-slide {
+	touch-action: none;
 }
 
 .reveal .slides {
@@ -1445,7 +1449,8 @@ $overlayHeaderPadding: 5px;
 	width: 100%;
 	height: 100%;
 	z-index: 1000;
-	background: rgba( 0, 0, 0, 0.9 );
+	background: rgba( 0, 0, 0, 0.95 );
+	backdrop-filter: blur( 6px );
 	transition: all 0.3s ease;
 }
 
@@ -1588,7 +1593,6 @@ $overlayHeaderPadding: 5px;
 		padding-top: 20px;
 		padding-bottom: 20px;
 	}
-
 
 /*********************************************
  * PLAYBACK COMPONENT
@@ -1899,6 +1903,11 @@ $notesWidthPercent: 25%;
 	.slide-number,
 	.speaker-notes {
 		display: none !important;
+	}
+
+	.overlay,
+	.pause-overlay {
+		position: fixed;
 	}
 
 	.reveal {

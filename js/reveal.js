@@ -28,7 +28,7 @@ import {
 } from './utils/constants.js'
 
 // The reveal.js version
-export const VERSION = '5.0.1';
+export const VERSION = '5.1.0';
 
 /**
  * reveal.js
@@ -50,6 +50,9 @@ export default function( revealElement, options ) {
 
 	// Configuration defaults, can be overridden at initialization time
 	let config = {},
+
+		// Flags if initialize() has been invoked for this reveal instance
+		initialized = false,
 
 		// Flags if reveal.js is loaded (has dispatched the 'ready' event)
 		ready = false,
@@ -127,6 +130,8 @@ export default function( revealElement, options ) {
 
 		if( !revealElement ) throw 'Unable to find presentation root (<div class="reveal">).';
 
+		initialized = true;
+
 		// Cache references to key DOM elements
 		dom.wrapper = revealElement;
 		dom.slides = revealElement.querySelector( '.slides' );
@@ -184,6 +189,9 @@ export default function( revealElement, options ) {
 	 * to the current URL deeplink if there is one.
 	 */
 	function start() {
+
+		// Don't proceed if this instance has been destroyed
+		if( initialized === false ) return;
 
 		ready = true;
 
@@ -604,6 +612,12 @@ export default function( revealElement, options ) {
 	 */
 	function destroy() {
 
+		initialized = false;
+
+		// There's nothing to destroy if this instance hasn't finished
+		// initializing
+		if( ready === false ) return;
+
 		removeEventListeners();
 		cancelAutoSlide();
 		disablePreviewLinks();
@@ -1016,19 +1030,9 @@ export default function( revealElement, options ) {
 						}
 					});
 				}
-
-				// Responsively turn on the scroll mode if there is an activation
-				// width configured. Ignore if we're configured to always be in
-				// scroll mode.
-				if( typeof config.scrollActivationWidth === 'number' && config.view !== 'scroll' ) {
-					if( size.presentationWidth > 0 && size.presentationWidth <= config.scrollActivationWidth ) {
-						if( !scrollView.isActive() ) scrollView.activate();
-					}
-					else {
-						if( scrollView.isActive() ) scrollView.deactivate();
-					}
-				}
 			}
+
+			checkResponsiveScrollView();
 
 			dom.viewport.style.setProperty( '--slide-scale', scale );
 			dom.viewport.style.setProperty( '--viewport-width', viewportWidth + 'px' );
@@ -1078,6 +1082,40 @@ export default function( revealElement, options ) {
 			}
 
 		} );
+
+	}
+
+	/**
+	 * Responsively activates the scroll mode when we reach the configured
+	 * activation width.
+	 */
+	function checkResponsiveScrollView() {
+
+		// Only proceed if...
+		// 1. The DOM is ready
+		// 2. Layouts aren't disabled via config
+		// 3. We're not currently printing
+		// 4. There is a scrollActivationWidth set
+		// 5. The deck isn't configured to always use the scroll view
+		if(
+			dom.wrapper &&
+			!config.disableLayout &&
+			!printView.isActive() &&
+			typeof config.scrollActivationWidth === 'number' &&
+			config.view !== 'scroll'
+		) {
+			const size = getComputedSlideSize();
+
+			if( size.presentationWidth > 0 && size.presentationWidth <= config.scrollActivationWidth ) {
+				if( !scrollView.isActive() ) {
+					backgrounds.create();
+					scrollView.activate()
+				};
+			}
+			else {
+				if( scrollView.isActive() ) scrollView.deactivate();
+			}
+		}
 
 	}
 
@@ -1219,7 +1257,7 @@ export default function( revealElement, options ) {
 
 	/**
 	 * Returns true if we're currently on the last slide in
-	 * the presenation. If the last slide is a stack, we only
+	 * the presentation. If the last slide is a stack, we only
 	 * consider this the last slide if it's at the end of the
 	 * stack.
 	 */
@@ -1421,6 +1459,9 @@ export default function( revealElement, options ) {
 		// within it
 		let currentHorizontalSlide = horizontalSlides[ indexh ],
 			currentVerticalSlides = currentHorizontalSlide.querySelectorAll( 'section' );
+
+		// Indicate when we're on a vertical slide
+		revealElement.classList.toggle( 'is-vertical-slide', currentVerticalSlides.length > 1 );
 
 		// Store references to the previous and current slides
 		currentSlide = currentVerticalSlides[ indexv ] || currentHorizontalSlide;
@@ -2475,6 +2516,9 @@ export default function( revealElement, options ) {
 
 		navigationHistory.hasNavigatedHorizontally = true;
 
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.prev();
+
 		// Reverse for RTL
 		if( config.rtl ) {
 			if( ( overview.isActive() || skipFragments || fragments.next() === false ) && availableRoutes().left ) {
@@ -2492,6 +2536,9 @@ export default function( revealElement, options ) {
 
 		navigationHistory.hasNavigatedHorizontally = true;
 
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.next();
+
 		// Reverse for RTL
 		if( config.rtl ) {
 			if( ( overview.isActive() || skipFragments || fragments.prev() === false ) && availableRoutes().right ) {
@@ -2507,6 +2554,9 @@ export default function( revealElement, options ) {
 
 	function navigateUp({skipFragments=false}={}) {
 
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.prev();
+
 		// Prioritize hiding fragments
 		if( ( overview.isActive() || skipFragments || fragments.prev() === false ) && availableRoutes().up ) {
 			slide( indexh, indexv - 1 );
@@ -2517,6 +2567,9 @@ export default function( revealElement, options ) {
 	function navigateDown({skipFragments=false}={}) {
 
 		navigationHistory.hasNavigatedVertically = true;
+
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.next();
 
 		// Prioritize revealing fragments
 		if( ( overview.isActive() || skipFragments || fragments.next() === false ) && availableRoutes().down ) {
@@ -2532,6 +2585,9 @@ export default function( revealElement, options ) {
 	 * 3) Previous horizontal slide
 	 */
 	function navigatePrev({skipFragments=false}={}) {
+
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.prev();
 
 		// Prioritize revealing fragments
 		if( skipFragments || fragments.prev() === false ) {
@@ -2556,6 +2612,9 @@ export default function( revealElement, options ) {
 					let h = indexh - 1;
 					slide( h, v );
 				}
+				else if( config.rtl ) {
+					navigateRight({skipFragments});
+				}
 				else {
 					navigateLeft({skipFragments});
 				}
@@ -2571,6 +2630,9 @@ export default function( revealElement, options ) {
 
 		navigationHistory.hasNavigatedHorizontally = true;
 		navigationHistory.hasNavigatedVertically = true;
+
+		// Scroll view navigation is handled independently
+		if( scrollView.isActive() ) return scrollView.next();
 
 		// Prioritize revealing fragments
 		if( skipFragments || fragments.next() === false ) {
@@ -2700,7 +2762,6 @@ export default function( revealElement, options ) {
 	function onWindowResize( event ) {
 
 		layout();
-
 	}
 
 	/**
@@ -2879,7 +2940,7 @@ export default function( revealElement, options ) {
 		loadSlide: slideContent.load.bind( slideContent ),
 		unloadSlide: slideContent.unload.bind( slideContent ),
 
-		// Media playback
+		// Start/stop all media inside of the current slide
 		startEmbeddedContent: () => slideContent.startEmbeddedContent( currentSlide ),
 		stopEmbeddedContent: () => slideContent.stopEmbeddedContent( currentSlide, { unloadIframes: false } ),
 
