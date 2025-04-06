@@ -45,9 +45,9 @@ html * {
 
 .reveal {
   font-family: "Atkinson Hyperlegible", sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   font-weight: normal;
-  color: #657b83; }
+  color: #000000; }
 
 .reveal ::selection {
   color: #fff;
@@ -269,6 +269,10 @@ html * {
  font-size: 2em;
  line-height: 2.4em;
  vertical-align: top; } 
+ 
+ .reveal highlight {
+   color: #d33682;
+ }
 
 .reveal img {
   margin: 20px 0; }
