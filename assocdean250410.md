@@ -25,8 +25,8 @@ Note: We study our world's cultures and their modes of thought and expression, a
 
 
 <section>
-    <img width="300" src="images/gtcover.png">
-    <img width="300" src="images/lgcover.jpg">
+    <img width="400" src="images/gtcover.png">
+    <img width="400" src="images/lgcover.jpg">
 </section>
 
 Note: This belief is in part the basis for the arguments that I've made in my last two books, *Generous Thinking* and *Leading Generously* -- that, in order to create the best possible conditions for success for the work that we are all committed to doing, we have to do it together, and that "together" requires us all to reground ourselves in collaboration rather than competition, in listening to and learning from one another rather than thinking of our differences as barriers to understanding. I don't at all want to suggest that this is easy -- collaboration is hard, listening and learning are hard, and building and supporting diverse teams are hard -- but that's the work I've committed myself to over the last fifteen years, and that's the work that I hope I will be able to keep doing in the college.
@@ -34,17 +34,17 @@ Note: This belief is in part the basis for the arguments that I've made in my la
 The difficulty of all of this points to another part of the prompt that I want to revisit:
 
 
-> You should give a 45-minute talk (with 15 minutes for questions) addressing graduate education and grant and research support for faculty and students. <span style="color:red">The talk should be forward-looking, as much as it can be in these times of uncertainty.</span> We ask that you give specific examples of what you would like to accomplish. In addition, we would like you to talk about how you would overcome the challenges of leading a unit whose research includes the humanities, social sciences, visual arts, performing arts, and interdisciplinary research.
+> You should give a 45-minute talk (with 15 minutes for questions) addressing graduate education and grant and research support for faculty and students. <highlight>The talk should be forward-looking, as much as it can be in these times of uncertainty.</highlight> We ask that you give specific examples of what you would like to accomplish. In addition, we would like you to talk about how you would overcome the challenges of leading a unit whose research includes the humanities, social sciences, visual arts, performing arts, and interdisciplinary research.
 
-Note: "These times of uncertainty" turns out to be a massive (and growing) understatement of the situation. Not that it hasn't always been true that we don't know what the future holds -- but holy moly, trying to look forward right now results in little but uncertainty. We not only don't know what research and graduate studies in the college will look like five years from now -- we don't know what's going to happen *tomorrow* that has the potential to radically reshape everything about the ways we work as scholars, as artists, as teachers, as mentors, and as colleagues.
+Note: "These times of uncertainty" turns out to be a massive (and growing) understatement of the situation. Not that it hasn't always been true that we don't know what the future holds -- but trying to look forward right now results in little but uncertainty. We not only don't know what research and graduate studies in the college will look like five years from now not least because we don't know what's going to happen *tomorrow* that has the potential to radically reshape everything about the ways we work as scholars, as artists, as teachers, as mentors, and as colleagues.
 
 
 # what do we know?
 
-Note: So what do we know? We know that the process of obtaining support for research and creative activity through grant funding has always been difficult -- and we know that it has just gotten a LOT harder. But we also know that there are still opportunities out there, and not just opportunities but enormous *need* for the expertise, the talent, the collaborative potential and the community engagement that CAL brings together. We know that resources are scarce, but we also know that creativity and commitment are not.
+Note: So what do we know? We know that the process of obtaining support for research and creative activity through grant funding has always been difficult -- and we know that it has just gotten a LOT harder. But we also know that there are still opportunities out there, and not just opportunities but enormous *need* for the expertise, the talent, the collaborative potential and the community engagement that CAL brings together. We know that resources are scarce, but we also know that creativity and commitment are not. With all of that in mind, I want to offer both some thoughts about where we are today, and how we'll cope with the months ahead, as well as where I hope that we might be able to go in the future.
 
 
-The times of uncertainty that we're in are all too likely to define the next several years, so we need to look hard at where we are today, in addition to where we want to go.
+
 
 
 
