@@ -18,7 +18,7 @@ html * {
   --background-color: #fff;
   --main-font: "Atkinson Hyperlegible", sans-serif;
   --main-font-size: 36px;
-  --main-color: #000000;
+  --main-color: #586e75;
   --block-margin: 20px;
   --heading-margin: 0 0 20px 0;
   --heading-font: "Atkinson Hyperlegible", sans-serif;
@@ -47,7 +47,7 @@ html * {
   font-family: "Atkinson Hyperlegible", sans-serif;
   font-size: 36px;
   font-weight: normal;
-  color: #000000; }
+  color: #586e75; }
 
 .reveal ::selection {
   color: #fff;
