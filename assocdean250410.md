@@ -14,7 +14,7 @@ Note: Thanks so much for that introduction, Charlene, and thanks to all of you f
 Note: The search committee provided me with this prompt for this talk -- and I want to apologize a tiny bit for starting today with the classic lit-crit move of asking some questions about the prompt, but it's crucial to me to make sure that we're starting the process of thinking together about our collective future with as much of a shared understanding as is possible.
 
 
-*You should give a 45-talk (with 15 minutes for questions) addressing graduate education, and grant and research support for faculty and students. The talk should be forward looking, as much as it can be in these times of uncertainty. We ask that you give specific examples of what you would like to accomplish. In addition, we would like you to talk about <highlight>how you would overcome the challenges of leading a unit whose research includes the humanities, social sciences, visual arts, performing arts, and interdisciplinary research</highlight>.*
+*You should give a 45-minute talk (with 15 minutes for questions) addressing graduate education and grant and research support for faculty and students. The talk should be forward-looking, as much as it can be in these times of uncertainty. We ask that you give specific examples of what you would like to accomplish. In addition, we would like you to talk about <highlight>how you would overcome the challenges of leading a unit whose research includes the humanities, social sciences, visual arts, performing arts, and interdisciplinary research</highlight>.*
 
 Note: So let's start here: I firmly believe that the diversity of methodologies, theoretical approaches, and disciplinary backgrounds represented in the College of Arts & Letters is not a challenge to be overcome, but rather a source of our strength. I say this as a scholar with an MFA in creative writing and a PhD in English and American literature, and as an author whose writing has confounded a lot of disciplinary expectations. I say this as a faculty member who started her career jointly appointed in English and Media Studies, and as a digital humanist whose primary work has involved network building. I've straddled a lot of lines over the years, and am convinced that the more we can do individually and collectively to build connections across the disciplinary boundaries that try to divide us, the stronger we'll be, both individually and as a college.
 
@@ -45,7 +45,7 @@ Note: So what do we know? We know that the process of obtaining support for rese
 
 
 > Hope is a discipline.
-> <cite>--Mariame Kaba</cite>
+> *<span style="align: right;">--Mariame Kaba</span>*
 
 Note: I want to ground my thinking in the recognition that it takes a lot of work to maintain hope at a moment like this, but that hope is becoming more and more necessary. As abolitionist organizer Mariame Kaba has noted, hope is not an emotion -- it's not optimism. Hope is instead a practice, and one that has to be practiced every day, if we are to find ways of coming together and fixing the many things wrong with the world around us. There are days -- and we've experienced a lot of them lately -- when that hope is hard to sustain. But I want to do what I can to ensure that another world, another university, another college might be possible. 
 
