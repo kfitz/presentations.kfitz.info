@@ -44,8 +44,8 @@ Note: "These times of uncertainty" turns out to be a massive (and growing) under
 Note: So what do we know? We know that the process of obtaining support for research and creative activity through grant funding has always been hard -- and we know that it has just gotten a LOT harder. But we also know that there are still opportunities out there, and not just opportunities but enormous *need* for the expertise, the talent, the collaborative potential and the community building that CAL engages in. We know that resources are scarce, but we also know that creativity and commitment are not. With all of that in mind, I want to offer both some thoughts about where we are today, and how we'll cope with the months ahead, as well as where I hope that we might be able to go in the future.
 
 
-> Hope is a discipline.
-> *<span style="align: right;">--Mariame Kaba</span>*
+## Hope is a discipline.
+### *--Mariame Kaba*
 
 Note: I want to ground my thinking in the recognition that it takes a lot of work to maintain hope at a moment like this, but that hope is becoming more and more necessary. As abolitionist organizer Mariame Kaba has noted, hope is not an emotion -- it's not optimism. Hope is instead a practice, and one that has to be practiced every day, if we are to find ways of coming together and fixing the many things wrong with the world around us. There are days -- and we've experienced a lot of them lately -- when that hope is hard to sustain. But I want to do what I can to ensure that another world, another university, another college might be possible. 
 
@@ -67,7 +67,7 @@ Note: Seeking foundation support thus requires keeping up with a highly fluid fu
 Note: In addition to shifting our thinking a bit about where external funding comes from and how we go about applying for it, we also need to take a hard look at internal funding, both at the college level and at the university level. 
 
 
-# Committee on Institutional Support for Research
+## Committee on Institutional Support for Research
 
 Note: Over the last several months, I've been serving on a faculty-senate appointed ad-hoc committee charged with studying internal support for research and creative activity across the university and making some recommendations for creating greater equity across the campus. We know, for instance, that our colleagues in STEM fields often receive significant startup funds, necessary in order to get their labs equipped and operating, and while CAL offers incoming tenure-system faculty members startup funds, they are orders of magnitude smaller. We also know that other fields have long benefitted from the college and unit level allocations of indirects received from federal grants, and that those funds have enabled many units to be generous with other forms of internal funding. And we know that those fields are disproportionately represented in university-level honorifics including the University Distinguished Professorships, the MSU Research Foundation Professorships, and the Red Cedar Distinguished Professorships. We are hoping that the survey that the committee has just conducted and the interviews that are now being done will make those inequities transparent, and perhaps even begin to surface some pathways toward rectifying them.
 
