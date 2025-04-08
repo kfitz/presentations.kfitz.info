@@ -1,10 +1,9 @@
 ## The Path Forward
 ---
-### The Futures of Research and Graduate Studies
+#### Futures for Research and Graduate Studies
 ---
 <br />
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu</smaller><br />
-<small>http://presentations.kfitz.info/assocdean250410.html</small>
 
 Note: Thanks so much for that introduction, Charlene, and thanks to all of you for joining me here today. I'm grateful to the search committee for their work, and for giving me this opportunity to talk with you a bit about some of my thinking about the futures of research and graduate studies in the college. 
 
@@ -47,9 +46,9 @@ Note: So what do we know? We know that the process of obtaining support for rese
 Note: I want to ground my thinking in the recognition that it takes a lot of work to maintain hope at a moment like this, but that hope is becoming more and more necessary. As abolitionist organizer Mariame Kaba has noted, hope is not an emotion -- it's not optimism. Hope is instead a practice, and one that has to be practiced every day, if we are to find ways of coming together and fixing the many things wrong with the world around us. There are days -- and we've experienced a lot of them lately -- when that hope is hard to sustain. But I want to do what I can to ensure that another world, another university, another college might be possible. 
 
 
-# funding
+# research
 
-Note: So. Let's start with the elephant in the room: external funding. There has always been far less available than we need, and last week that situation got a lot worse. Many of our fields have long relied on federal funding for key forms of support, and a number of our faculty members have lost that funding in recent weeks, leaving their projects up in the air. Worse, many of our colleagues in the college have been hired on those grants, and are now quite vulnerable. Our first priority must be working to ensure that we can protect as many of these colleagues as possible, whether that means finding other support to continue their projects or seeking other roles for them in the college. Please know that the dean's team is actively working on those questions and trying to do as much as they can to ameliorate the situation.
+Note: So, I'm going to start with the research side of this position, and as I do it's necessary to acknowledge the elephant in the room: external funding. There has always been far less available than we need, and last week that situation got a lot worse. Many of our fields have long relied on federal funding for key forms of support, and a number of our faculty members have lost that funding in recent weeks, leaving their projects up in the air. Worse, many of our colleagues in the college have been hired on those grants, and are now quite vulnerable. Our first priority must be working to ensure that we can protect as many of these colleagues as possible, whether that means finding other support to continue their projects or seeking other roles for them in the college. Please know that the dean's team is actively working on those questions and trying to do as much as they can to ameliorate the situation.
 
 Continuing the important research and creative activity being done across the college will require us to find other sources of support, and we'll particularly need to think about foundation-based funding. It's important to recognize, however, that private philanthropy operates very differently from federal funding agencies -- not least that their funding programs change much more rapidly, often in response to local, regional, and global crises, and sometimes in response to the priorities of their leadership.
 
@@ -88,57 +87,95 @@ Note: Recently, the addition of the HARP large-scale program has helped facilita
 
 # HARP
 
-Note: But the HARP program is of course highly competitive at each of its levels, and the amount awarded for the HARP Development grants has not changed since the program's inception. Needless to say the funds don't go anywhere near as far as they used to and the need for support keeps increasing. I've begun a conversation with Charley Hasemann to find out how CAL can help him advocate for increased resources for HARPs
+Note: But the HARP program is of course highly competitive at each of its levels, and the amount awarded for the HARP Development grants has not changed since the program's inception. Needless to say the funds don't go anywhere near as far as they used to and the need for support keeps increasing. I've begun a conversation with Charley Hasemann to find out how CAL can help him advocate for increased resources for HARPs.
 
 
-research futures:
-	- in addition to shifting our thinking a bit about where external funding comes from and how we go about applying for it, we also need to take a hard look at internal funding
-		- but 
-		- we should as a college take a hard look at some of the other internal funding mechanisms through the Office of Research & Innovation, however, to see where we're not taking advantage of existing possibilities. For instance, the recently developed Shared Research Infrastructure Program was established to help avoid redundant expenditures in the sciences in particular, where every lab often needs the same piece of very expensive equipment; the SRIP provides funds designed to encourage clusters of labs or other units to invest together in shared infrastructure. How might we think about such research infrastructure needs from a collective perspective and seek support from the SRIP?
-		- additionally, the SPG, or Strategic Partnership Grants, support team-based research whether at the early phase of project development or at the later phase of center development; these proposals require evidence of strong multidisciplinary collaborations as well as of a plan for seeking external funding to continue the work after the SPG seed funding is depleted
-		- and the TETRAD program, launched in Fall 2023, is designed to support new cross-unit and cross-college collaborations as well
-	- those last three programs (SRIP/SPG/TETRAD) point to the growing importance of collaborating not just within our fields but across them. In many -- not all, by any means, but many -- of our fields, that form of collaboration has not been baked into our training; we need to think about how we might learn from the science of team science and put some of those lessons to use in our own research processes. 
-	- The research team has for several years run grant kick-off meetings once funding has been received in order to make sure that everyone involved -- faculty, staff, and administrators -- are on the same page about the processes for making hires and purchases and for reporting on the grant's progress. I would like to see us move some of that work even earlier in the flow: for instance, to establish *proposal* kick-offs, so that folks coming together to work with the research team on a grant proposal have some crucial conversations before submission. 
-	- I would also like to see us develop some collaboration support processes and agreements, such that folks who are starting a new project together can be sure to have the right conversations with one another even before the proposal process, so that everyone is on the same page as far as they can possibly be about project decision-making, about rights and responsibilities, and more. Conversations like these can help us head off conflict before it begins
-	- returning to the SPGs: the evidence of future external support potential that these proposals require, especially at the center level, might encourage us to think about developing more intentional pathways for the projects and labs and centers that have recently proliferated across CAL, including how we start them up, how they are charged with becoming sustainable, and how they are sunset at the appropriate moment
-		- but I also want to think a bit about that proliferation, and have us ask ourselves some hard questions about our priorities
-		- there's a running joke at a number of other institutions about every faculty member having their very own center; the issue isn't that the centers aren't doing important work, but rather that this proliferation calls for a lot of often redundant resources
-		- rather than creating a new center for each new purpose, can we bring some of our centers together into larger units that serve more faculty and graduate students?
-		- my biggest aspiration here might in fact be establishing a singular Center for the Arts & Humanities that could learn from the best such centers around the country, including the Denbo Center for Humanities and the Arts at the University of Tennessee, the Dresher Center for the Humanities at the University of Maryland-Baltimore Country, the Center for 21st Century Studies at the University of Wisconsin-Milwaukee, the Institute for Advanced Study at the University of Minnesota, the Humanities Research Institute at the University of Illinois-Urbana-Champaign, and more
-		- a center such as this, like many of the centers I've named, would ideally be able to offer faculty and grad student fellowships to support research and creative activity and to create community among the fellows by having weekly lunch gatherings to share work, as well as opportunities for presentation and feedback
-		- this center could bring together the work of some of our existing centers, and could coordinate resources to help avoid duplication of effort around things like project management, event planning and hosting, and more; one could imagine the Legacy Lecture, the Signature Lecture, etc, being brought together under this banner
-		- the center could also offer infrastructure to support longer-term collaborative projects, and could be the incubator for other labs and centers
-		- this would require significant fundraising to get off the ground, but it might be an exciting naming opportunity for the right donor, and I would be delighted to get the opportunity to work with our next dean and director of development on building the relationships that might lead to such a gift
-		- in the meantime, we could begin laying the groundwork by thinking with the center and lab directors about how they might share resources and build collaborations with one another
-- from here, I want to turn my attention to graduate studies:
-	- the associate dean for research and graduate studies supports the graduate program directors and associate chairs for graduate studies as they lead their programs and support their students
-		- the landscape for graduate studies has changed as radically and painfully as that of research funding in recent weeks; we have all heard stories about institutions such as the University of Massachusetts at Amherst that have rescinded all of their graduate admissions for next year, and other institutions that are radically downsizing their graduate programs
-		- MSU in general, and CAL in particular, are NOT taking these radical steps right now. I cannot promise that they won't be imposed on us -- we have no idea what could still be ahead for us -- but I can promise that we will do everything in our power to ensure that our programs continue, and thrive
-		- but it's important to note that the people that are being hit the hardest by the federal changes right now are of course some of the most vulnerable members of the college community -- our international graduate students, whose freedom of movement is threatened and whose ability to conduct their research in their chosen areas of the world is being undermined
-		- the graduate office has been working with the Graduate School as well as the Office for International Students and Scholars to ensure that our international graduate students are as well-protected as they can be, that they have access to emergency support to allow them to stay in the US this summer in the event it's too risky for them to travel, and so on
-		- we're also encouraging their graduate programs and advisors to work with them to develop alternative plans for their work in the event their research abroad is no longer possible, and to help any graduate student who must travel abroad prepare a plan B in the event they're not able to re-enter the country
-	- in the face of all of that, it's challenging to think right now about what we'd actually *like* to do in order to make the graduate experience better, rather than just to keep it from getting worse, but there are some strategic ideas that I'm hoping to have the opportunity to work on in the years ahead
-		- first, I want to place significant emphasis on expanding support for broadened career pathways for our doctoral students, as well as for broadened training opportunities during the degree process
-		- one of the things that has inhibited many graduate programs around the country from thinking actively about the many career paths that should be open to their graduate students is a kind of parochialism, partly driven by the faculty's uninterrogated assumption that the best possible outcome for every PhD candidate is a job like ours -- despite the fact that we know that such jobs are harder and harder to get, and despite the equally true fact that however great our jobs may be, *there are other equally if not more rewarding career opportunities that we undervalue*
-		- those career paths also remain undersupported because we don't know how to prepare our students for those kinds of careers; we haven't worked in the other roles on campus that hire advanced degree recipients in the arts and humanities, and we haven't worked in the other kinds of educational, cultural, and social organizations that hire them either
-		- but we have colleagues on and off campus who *do* work in those roles, and who might be recruited to help us think about what the future of graduate training in the arts and humanities should look like in order to open up those career possibilities for our students
-		- and I want to emphasize as strongly as I possibly can that these career possibilities are *not a plan B*, not a second-rate alternative; these are in many cases the goals and aspirations that our grad students come to our programs with, and that they often don't tell their advisors about for fear of disappointing them or being seen as somehow less worth their time and attention
-		- in fact, placing our advanced degree recipients in academic jobs outside the classroom, or in positions outside the academy, should at every turn be seen as a victory -- because now more than ever we need well-prepared critical and creative thinkers, researchers, writers, and makers *out there* working to change the world
-	- so how do we get there?
-		- if I could do anything, I would learn from medical schools and create a rotation model for graduate students in the arts and humanities, and give every grad student the opportunity to gain multiple kinds of work experience through a suite of different GAships and internships, whether in editing and publishing, in research labs, in digital project management, in student and faculty affairs and other areas of academic administration, in libraries, archives, and museums, and so on, in addition to getting teaching experience in our programs
-		- in an ideal world every grad student would in fact be *required* to take on multiple kinds of work over the course of their studies, selecting the two or three options that are most aligned with their long-term goals
-		- toward that end, I would like to see us establish a suite of summer or semester internship opportunities off campus, perhaps dividing the cost of a GAship between MSU and the scholarly or cultural organizations with which the graduate student can be placed; such internships during the summer could be fully embedded on-site, and during fall or spring could be conducted remotely; the MLA has such interns coming to them from NYU and Princeton, and we imagine other organizations might be willing to explore the opportunities
-- finally, I want to take a moment to tie all of this -- both the ideas about research and those about graduate studies -- in to CPIL: what is it to chart our own pathways to intellectual leadership in a time in which the infrastructure supporting those pathways is not just crumbling but in fact actively being destroyed?
-	- one of the things I have told friends and colleagues over the eight years since I've been at MSU, explaining why I love working here (and would rather work here than at the better-heeled institution just down the road), is that we're *scrappy*. We can try new things and take certain kinds of risks in the process precisely because we've got less to lose -- whether in the rankings, in the minds of donors, or whathaveyou. It's not just that we've got "uncommon will," as the slogan puts it, but that we're willing to look at the ways that things have always been done and ask WHY.
-	- CPIL has demonstrated that annual review, promotion, and tenure reviews don't *have* to stay fixated on the markers of success that were established in the second half of the last century; that research, teaching, and service are not eternal, and not eternally distinct categories that add up to the sum of our work on campus; that asking each and every member of the college community to think about their longest-term goals and how to reach them can not only magnify the impact of the work we do for our communities
-	- and that last bit is my own goal
+# SRIP
+
+Note: Additionally, we should as a college take a hard look at some of the other internal funding mechanisms through the Office of Research & Innovation, to see where we're not taking advantage of existing possibilities. For instance, the recently developed Shared Research Infrastructure Program was established to help avoid redundant expenditures in the sciences in particular, where every lab often needs the same piece of very expensive equipment; the SRIP provides funds designed to encourage clusters of labs or other units to invest together in shared infrastructure. How might we think about such research infrastructure needs from a collective perspective and seek support from the SRIP?
 
 
+# SPG
 
+Note: Similarly, the SPG, or Strategic Partnership Grants, support team-based research whether at the early phase of project development or at the later phase of center development; these proposals require evidence of strong multidisciplinary collaborations as well as of a plan for seeking external funding to continue the work after the SPG seed funding is depleted.
+
+
+# Tetrad
+
+Note: Two projects that include CAL researchers were  successfully funded in the first round of the TETRAD program, which launched in Fall 2023 and is designed to support new cross-unit and cross-college collaborations.
+
+
+## collaboration
+
+Note: Those last three programs (SRIP/SPG/TETRAD) point to the growing importance of collaborating not just within our fields but across them. In many -- not all, by any means, but many -- of our fields, that form of collaboration has not been baked into our training; we need to think about how we might learn from the science of team science and put some of those lessons to use in our own research processes.  The research team has for several years run grant kick-off meetings once funding has been received in order to make sure that everyone involved -- faculty, staff, and administrators -- are on the same page about the processes for making hires and purchases and for reporting on the grant's progress. I would like to see us move some of that work even earlier in the flow: for instance, to establish *proposal* kick-offs, so that folks coming together to work with the research team on a grant proposal have some crucial conversations before submission. 
+
+I would also like to see us develop some collaboration support processes and agreements, such that folks who are starting a new project together can be sure to have the right conversations with one another even before the proposal process, so that everyone is on the same page as far as they can possibly be about project decision-making, about individual researcher rights and responsibilities, and more. Conversations like these can help us head off conflict before it begins.
+
+
+# centers
+
+Note: Returning for a moment to the SPGs: the evidence of future external support potential that these proposals require, especially at the center level, might encourage us to think about developing more intentional pathways for the projects and labs and centers that have recently proliferated across CAL. We need to develop some college-level policy around how they get started (and with what support), how they are charged with becoming sustainable, and how they are sunset at the appropriate moment. But I also want to think a bit about that proliferation, and have us ask ourselves some hard questions about our priorities. There's a running joke at a number of other institutions about every faculty member having their very own center; the issue isn't that the centers aren't doing important work, but rather that this proliferation calls for a lot of often redundant resources, and it winds up creating more silos rather than more spaces for collaboration. Rather than creating a new center for each new purpose, could we consider bringing some of our centers together into larger units that serve more faculty and graduate students?
+
+
+## Center for the Arts & Humanities
+
+Note: My most aspirational idea here might in fact be establishing a singular Center for the Arts & Humanities that could learn from the best such centers around the country, including the Denbo Center for Humanities and the Arts at the University of Tennessee, the Dresher Center for the Humanities at the University of Maryland-Baltimore Country, the Center for 21st Century Studies at the University of Wisconsin-Milwaukee, the Institute for Advanced Study at the University of Minnesota, the Humanities Research Institute at the University of Illinois-Urbana-Champaign, and more. A center for the arts & humanities, like many of the centers I've named, would ideally be able to offer faculty and grad student fellowships to support research and creative activity and to create community among the fellows by having weekly lunch gatherings to share work, as well as opportunities for presentation and feedback. This center could bring together the work of some of our existing centers, and could coordinate resources to help avoid duplication of effort around things like project management, event planning and hosting, and more. I could imagine some of the large-scale college events including the Legacy Lecture, the Signature Lecture, and so on, being brought together under this banner. The center could also offer infrastructure to support longer-term collaborative projects, and could serve as an incubator for other labs and centers, allowing them to get started and then spin out as they obtain the necessary funding.
+
+A center like this would require significant fundraising to get off the ground, but it might be an exciting naming opportunity for the right donor, and I would be delighted to have the opportunity to work with our next dean and director of development on building the relationships that might lead to such a gift. In the meantime, we could begin laying the groundwork by thinking with the center and lab directors about how they might share resources and build shared projects, how they might come together to apply for funding for collaborative work, and more.
+
+
+# graduate studies
+
+Note: From here, I want to turn my attention to graduate studies. The associate dean for research and graduate studies supports the graduate program directors and associate chairs for graduate studies as they lead their programs and support their students. The landscape for graduate studies has changed as radically and painfully as that of research funding in recent weeks; we have all heard stories about institutions such as the University of Massachusetts at Amherst that have rescinded all of their graduate admissions for next year, and other institutions that are radically downsizing their graduate programs. MSU in general, and CAL in particular, are NOT taking these radical steps right now. I cannot promise that they won't be imposed on us -- we have no idea what could still be ahead for us -- but I can promise that we will do everything in our power to ensure that our programs continue, and thrive.
+
+But it's important to note that the people that are being hit the hardest by the federal changes right now are some of the most vulnerable members of the college community -- our international graduate students, whose freedom of movement is threatened and whose ability to conduct their research in their chosen areas of the world is being undermined. The grad team has been working with the Graduate School as well as the Office for International Students and Scholars to ensure that our international graduate students are as well-protected as they can be, that they have access to emergency support to allow them to stay in the US this summer in the event it's too risky for them to travel, and so on. We're also encouraging their graduate programs and advisors to work with them to develop alternative plans for their work in the event their research abroad is no longer possible, and to help any graduate student who must travel abroad prepare a plan B in the event they're not able to re-enter the country.
+
+
+## grad futures
+
+Note: In the face of all of that, it's challenging to think right now about what we'd actually *like* to do in order to make the graduate experience better, rather than just to keep it from getting worse, but there are some strategic ideas that I'm hoping to have the opportunity to work on in the years ahead.
+
+
+## broadened career pathways
+
+Note: First, I want to place significant emphasis on expanding support for broadened career pathways for our doctoral students, as well as for broadened training opportunities during the degree process. One of the things that has inhibited many graduate programs around the country from thinking actively about the many career paths that should be open to their graduate students is a kind of parochialism, partly driven by the assumption that the best possible outcome for every PhD candidate is a job like ours -- despite the fact that we know that such jobs are harder and harder to get, and despite the equally true fact that however great our jobs may be, *there are other equally if not more rewarding career opportunities that we undervalue*.
+
+Those career paths also remain undersupported because we don't know how to prepare our students for those kinds of careers; we haven't worked in the other roles on campus that hire advanced degree recipients in the arts and humanities, and most of us haven't worked in the other kinds of educational, cultural, and social organizations that hire them either. But we do have colleagues on and off campus who *do* work in those roles, and who might be recruited to help us think about what the future of graduate training in the arts and humanities should look like in order to open up those career possibilities for our students.
+
+
+# ~~Plan B~~
+
+Note: I want to emphasize as strongly as I possibly can that these career possibilities are *not a plan B*, not a second-rate alternative; these are in many cases the goals and aspirations that our grad students come to our programs with, and that they often don't tell their advisors about for fear of disappointing them or being seen as somehow less worth their time and attention. In fact, placing our advanced degree recipients in academic jobs outside the classroom, or in positions outside the academy, should at every turn be seen as a victory -- because now more than ever we need well-prepared critical and creative thinkers, researchers, writers, and makers *out there* working to change the world. So how do we get there?
+
+
+## rotation model
+
+Note: If I could do anything, I would learn from medical schools and create a rotation model for graduate students in the arts and humanities, and give every grad student the opportunity to gain multiple kinds of work experience through a suite of different GAships and internships, whether in editing and publishing, in research labs, in digital project management, in student and faculty affairs and other areas of academic administration, in libraries, archives, and museums, and so on, in addition to getting teaching experience in our programs. In an ideal world every grad student would in fact be *required* to take on multiple kinds of work over the course of their studies, selecting the two or three options that are most aligned with their long-term goals.
+
+
+## internships
+
+Note: A step toward that model might be for us to establish a suite of paid summer or semester internship opportunities off campus. We might in fact find ways to share the cost of such internships between CAL and the scholarly or cultural organizations with which the graduate student can be placed. Internships during the summer could be fully embedded on-site, and during fall or spring could be conducted remotely. I know from a colleague that the Modern Language Association has such interns coming to them from NYU and Princeton, and I imagine that other organizations might be willing to explore the opportunities with us.
+
+This is just one idea, and no doubt there will be others. I hope to have the opportunity to think with colleagues across the college about the kinds of experience that would most benefit your grad students, to help get them out into the 
+
+
+# CPIL
+
+Note: Finally, I want to take a moment to tie all of this -- both the ideas I've presented about the future of research and creative activity in the college and those about graduate studies -- in to CPIL: what is it to chart our own pathways to intellectual leadership in a time in which the infrastructure supporting those pathways is not just crumbling but in fact actively being destroyed?
+
+One of the things I have told friends and colleagues over the eight years since I've been at MSU, explaining why I love working here (and would rather work here than at the better-heeled institution just down the road), is that we're *scrappy*. We can try new things and take certain kinds of risks in the process precisely because we haven't gotten all bound up in the glory of our prestige. We have a kind of freedom to chart a different path, and to help our students chart different kinds of paths too. It's not just that we've got "uncommon will," as the slogan puts it, but that we're able to look at the ways that things have always been done and ask why, whether that's really what best serves us, whether there might be other possibilities that allow us to do more good in the world.
+
+CPIL has demonstrated that annual review, promotion, and tenure reviews don't *have* to stay fixated on the markers of success that were established in the second half of the last century; that research, teaching, and service are not eternal, and not eternally distinct categories that add up to the sum of our work on campus; that asking each and every member of the college community to think about their longest-term goals and how to reach them can not only magnify the impact of our work but also provide greater satisfaction in being able to do it.
+
+
+# my hope
+
+Note: My hope for the future, both here in the College of Arts & Letters and with the work I've been doing in supporting the amazing team working on Knowledge Commons, is to (something about creating the conditions for new possibilities for everyone, to help all of us imagine a new academy that is more open, more just, more equitable, etc. Is there something from my application letter I could end with???)
 
 
 ## thank you
 ---
 <smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu</smaller>
 
-Note: Many thanks.
+Note: Many thanks again for being here today. I'm looking forward to hearing your questions!
