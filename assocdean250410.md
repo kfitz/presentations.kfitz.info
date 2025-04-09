@@ -81,9 +81,7 @@ Note: The situation in CAL has long been and will continue to be tight; a signif
 Note: So returning to internal funding, and thinking now beyond the college to university-level funding: the most important internal funding program for the arts & humanities at MSU is the Humanities and Arts Research Program, or HARP. HARPs have been extremely important over the last fifteen years and have enabled many faculty members to conduct research and to develop and build projects.
 
 
-<section>
-    <img width="400" src="images/choeurs.jpg" alt="Poster of Choeurs Atlantiques">
-</section>
+<img width="400" src="images/choeurs.jpg" alt="Poster of Choeurs Atlantiques">
 
 Note: Recently, the addition of the HARP large-scale program has helped facilitate projects that require more time and more resources to get off the ground, including *Choeurs Atlantiques*, the documentary film recently completed by Safoi Babana-Hampton, which was supported by the inaugural HARP large-scale grant.
 
