@@ -178,6 +178,6 @@ Note: My hope for the future, both here in the College of Arts & Letters and wit
 
 ## thank you
 ---
-<smaller>Kathleen Fitzpatrick // @kfitz@hcommons.social // kfitz@msu.edu</smaller>
+<smaller>Kathleen Fitzpatrick // @kfitz<span>@</span>hcommons.social // kfitz<span>@</span>msu.edu</smaller>
 
 Note: Many thanks again for being here today. I'm looking forward to hearing your questions!
